@@ -2,7 +2,7 @@
 
 _Por que as redes sociais apodrecem e o que isso revela sobre nossa obsessão por otimizar tudo_
 
-**Resumo:** Defendo que o problema não está nas métricas em si, mas em quando confundimos o indicador com aquilo que ele deveria representar. Ao transformar uma medida em objetivo, criamos incentivos que mudam comportamentos, alteram a cultura e podem fazer o sistema melhorar continuamente nos números enquanto piora naquilo que realmente importa. As redes sociais apenas tornam esse processo mais visível. Por isso, antes de perguntar como otimizar algo, precisamos decidir se aquilo merece ser maximizado: otimização é uma ferramenta, mas valor é uma escolha.
+**Resumo**: Defendo que o problema não está nas métricas em si, mas em quando confundimos o indicador com aquilo que ele deveria representar. Ao transformar uma medida em objetivo, criamos incentivos que mudam comportamentos, alteram a cultura e podem fazer o sistema melhorar continuamente nos números enquanto piora naquilo que realmente importa. As redes sociais apenas tornam esse processo mais visível. Por isso, antes de perguntar como otimizar algo, precisamos decidir se aquilo merece ser maximizado: otimização é uma ferramenta, mas valor é uma escolha.
 
 ---
 
