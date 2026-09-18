@@ -1,8 +1,3 @@
----
-title: "Consejos que le daría a mi yo de hace 20 años"
-date: 2026-08-10
-language: es
----
 # Consejos que le daría a mi yo de hace 20 años
 
 _Si pudiera hablar con la versión más joven de mí, ¿qué mensaje le transmitiría?_
