@@ -1,3 +1,9 @@
+---
+title: "Conselhos que eu daria para o meu eu de 20 anos atrás"
+date: 2026-08-10
+language: pt-BR
+---
+
 # Conselhos que eu daria para o meu eu de 20 anos atrás
 
 _Se eu pudesse falar com a versão mais jovem de mim, que mensagem eu lhe transmitiria?_
