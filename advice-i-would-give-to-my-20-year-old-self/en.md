@@ -1,9 +1,3 @@
----
-title: "Advice I Would Give My 20-Years-Younger Self"
-date: 2026-08-10
-language: en-US
----
-
 # Advice I Would Give My 20-Years-Younger Self
 
 _If I could talk to the younger version of myself, what message would I give him?_
