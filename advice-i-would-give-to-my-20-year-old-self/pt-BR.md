@@ -10,6 +10,8 @@ _Se eu pudesse falar com a versão mais jovem de mim, que mensagem eu lhe transm
 
 **Resumo**: Eu aprendi que uma vida bem construída depende menos de acertar tudo de primeira e mais de cuidar do que sustenta o longo prazo: saúde, aprendizado, relacionamentos, responsabilidade e autonomia. Quero desenvolver amplitude sem abrir mão de profundidade, aprender com as frustrações sem tratá-las como sinais de desistência e tomar decisões com mais clareza, paciência e prudência. No trabalho e nas finanças, prefiro construir capacidade e patrimônio antes de buscar resultados rápidos, mantendo minhas próprias teses e assumindo os riscos das minhas escolhas. No fim, meu conselho é simples: conheça a própria trajetória, preserve o que importa e siga avançando, mesmo quando o caminho não sair como planejado.
 
+---
+
 Este texto não é sobre viagem no tempo. Não existe máquina, portal ou multiverso aqui. É uma tentativa mais simples e, ao mesmo tempo, mais honesta: olhar para trás e escrever o que eu diria a mim se pudesse, mesmo sabendo que não posso.
 
 Cada pessoa tem sua própria trajetória, formada por uma combinação única de família, contexto, recursos e decisões. Por isso, o que segue não foi escrito como conselho para qualquer pessoa de 15 a 20 anos, mas especificamente para o meu eu de 20 anos atrás, alguém cuja vida eu conheço em detalhe porque foi a vida que eu vivi. Essa diferença importa. Um conselho que nasce da minha experiência carrega os limites da minha experiência, e algumas partes deste texto provavelmente não vão se aplicar a quem está lendo, porque partem de escolhas e circunstâncias que só existiram no meu caminho.
