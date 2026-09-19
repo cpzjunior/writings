@@ -1,3 +1,7 @@
+# Arquiteturas Investigativas: da coleta de informação à inteligência contínua
+
+_Uma arquitetura orientada por IA para investigar perguntas de negócio, aprender com o contexto e acompanhar continuamente o que pode mudar uma decisão._
+
 **Resumo:** Defendo uma arquitetura de inteligência que trate a investigação como sua unidade principal: um processo persistente que formula hipóteses, conecta evidências, preserva contexto e retoma o trabalho quando novas informações surgem. Um scheduler decide quais investigações merecem processamento, quanto esforço vale a pena investir e qual deve ser o próximo passo, enquanto memória, feedback humano e governança dão continuidade e confiabilidade ao processo. Assim, a IA deixa de apenas coletar, monitorar ou resumir informação e passa a sustentar um processo contínuo de investigação, no qual a própria arquitetura aprende com o que descobriu e volta ao problema quando o mundo muda.
 
 ------------------------------------------------------------------------
