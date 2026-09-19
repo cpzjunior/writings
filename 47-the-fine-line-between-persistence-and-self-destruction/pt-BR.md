@@ -1,3 +1,7 @@
+# A linha tênue entre persistência e autodestruição
+
+_Sobre decisões difíceis, feedback, limites e o momento em que persistir deixa de fazer sentido._
+
 **Resumo:** Existe um momento em que persistir deixa de ser uma virtude e passa a ser apenas insistência, mas essa fronteira raramente é clara. Eu aprendi isso quando precisei encerrar, depois de quatro anos e meio, a ONG que presidia voluntariamente, não porque a missão tivesse deixado de fazer sentido, mas porque o custo de sustentá-la havia se tornado alto demais. A experiência me fez repensar como lidamos com feedback, custos crescentes, responsabilidades e decisões passadas. Continuar perseguindo um objetivo não significa insistir na mesma estratégia, e reconhecer que uma forma de continuar deixou de ser sustentável não transforma a decisão anterior em um erro.
 
 ------------------------------------------------------------------------
