@@ -1,3 +1,7 @@
+# O papel do arquiteto de soluções no mundo corporativo
+
+_Um bom arquiteto de soluções é como um primeiro-volante: não é necessariamente quem aparece mais, mas é quem mantém o time funcionando._
+
 **Resumo:** Defendo que o arquiteto de soluções deve atuar mais como um primeiro-volante do que como o protagonista do time: seu papel é entender o jogo inteiro, antecipar riscos, conectar diferentes áreas e criar as condições para que os especialistas tomem boas decisões com autonomia. Isso exige saber quando intervir nas decisões realmente estruturais e quando sair do caminho, distinguindo risco arquitetural de preferência pessoal. No fim, seu valor não está em controlar tudo ou ser indispensável, mas em fazer o time decidir melhor, evoluir com menos atrito e funcionar melhor sem depender constantemente dele.
 
 ------------------------------------------------------------------------
