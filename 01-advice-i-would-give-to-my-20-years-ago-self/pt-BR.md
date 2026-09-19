@@ -1,10 +1,12 @@
 **Resumo:** Eu aprendi que uma vida bem construída depende menos de acertar tudo de primeira e mais de cuidar do que sustenta o longo prazo: saúde, aprendizado, relacionamentos, responsabilidade e autonomia. Quero desenvolver amplitude sem abrir mão de profundidade, aprender com as frustrações sem tratá-las como sinais de desistência e tomar decisões com mais clareza, paciência e prudência. No trabalho e nas finanças, prefiro construir capacidade e patrimônio antes de buscar resultados rápidos, mantendo minhas próprias teses e assumindo os riscos das minhas escolhas. No fim, meu conselho é simples: conheça a própria trajetória, preserve o que importa e siga avançando, mesmo quando o caminho não sair como planejado.
 
----
+------------------------------------------------------------------------
 
 Este texto não é sobre viagem no tempo. Não existe máquina, portal ou multiverso aqui. É uma tentativa mais simples e, ao mesmo tempo, mais honesta: olhar para trás e escrever o que eu diria a mim se pudesse, mesmo sabendo que não posso.
 
 Cada pessoa tem sua própria trajetória, formada por uma combinação única de família, contexto, recursos e decisões. Por isso, o que segue não foi escrito como conselho para qualquer pessoa de 15 a 20 anos, mas especificamente para o meu eu de 20 anos atrás, alguém cuja vida eu conheço em detalhe porque foi a vida que eu vivi. Essa diferença importa. Um conselho que nasce da minha experiência carrega os limites da minha experiência, e algumas partes deste texto provavelmente não vão se aplicar a quem está lendo, porque partem de escolhas e circunstâncias que só existiram no meu caminho.
+
+Thanks for reading! Subscribe for free to receive new posts and support my work.
 
 Ainda assim, decidi escrever e publicar porque acredito que exemplos concretos, mesmo quando não se encaixam perfeitamente na vida de outra pessoa, valem mais do que conselhos genéricos que servem para todo mundo e, por isso mesmo, não dizem nada de específico a ninguém. Se algo aqui não fizer sentido para a sua realidade, ignore sem culpa. Se alguma parte se encaixar, ainda que parcialmente, considero que já valeu a pena escrever. Se algo parecer incompleto, é porque eu ainda não encerrei minha jornada: tenho metade da minha vida pela frente, ou assim espero.
 
@@ -99,3 +101,5 @@ Aproveite oportunidades de mudança quando elas aparecerem. Trocar de cidade, mo
 Nenhum desses conselhos é uma fórmula garantida, e já disse isso lá no início: são experiências reais, com acertos e erros que só fazem sentido porque de fato aconteceram na minha vida, não na vida de qualquer pessoa. Talvez metade do que escrevi aqui não sirva para o seu momento, e está tudo bem, porque essa nunca foi a proposta. O que espero que fique, mesmo onde os detalhes não se encaixam, é o padrão por trás deles: cuidar do corpo antes que ele cobre a conta, cuidar da mente sem se envergonhar disso, aprender sem depender de ninguém para continuar aprendendo, escolher relacionamentos e trabalhos que somam em vez de drenar e gastar tempo e dinheiro com a mesma cabeça fria, sabendo que decisões precipitadas custam mais do que parecem no momento em que são tomadas.
 
 Se eu pudesse resumir tudo em uma frase só, seria esta: a distância entre quem você é hoje e quem você pode se tornar não é feita de grandes decisões isoladas, mas da soma de escolhas pequenas, repetidas com consistência, ao longo de muito mais tempo do que qualquer um gostaria de esperar. Vinte anos atrás, eu não tinha paciência para acreditar nisso. Hoje, ainda me falta paciência, mas já tenho a convicção de que é verdade.
+
+Thanks for reading! Subscribe for free to receive new posts and support my work.
