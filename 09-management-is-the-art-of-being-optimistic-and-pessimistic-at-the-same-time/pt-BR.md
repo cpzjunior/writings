@@ -1,3 +1,7 @@
+# Gestão é a arte de ser otimista e pessimista ao mesmo tempo
+
+_A arte de pensar no melhor e se preparar para o pior simultaneamente._
+
 **Resumo:** Defendo que gerir é sustentar uma tensão: ser otimista o suficiente para criar uma direção e mobilizar pessoas, mas pessimista o suficiente para questionar premissas e se preparar para o que pode dar errado. Não precisamos de certeza para decidir, mas precisamos reconhecer as incertezas e construir capacidade de adaptação. A boa gestão, portanto, não elimina a dúvida nem depende de planos perfeitos: cria confiança para avançar e cautela para mudar de rumo quando a realidade exigir.
 
 ------------------------------------------------------------------------
