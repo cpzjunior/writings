@@ -1,3 +1,7 @@
+# Por que eu ainda acredito no Bitcoin, apesar de um 2026 tão difícil
+
+_Existe uma diferença fundamental entre estar decepcionado com o desempenho de um investimento e deixar de acreditar na tese que levou você a investir nele_
+
 **Resumo:** Eu ainda acredito no Bitcoin não porque espere uma valorização rápida, mas porque sua tese estrutural continua intacta: uma oferta limitada a 21 milhões de unidades combinada com uma demanda potencial crescente, em um mundo de expansão monetária e digitalização financeira. Vejo a institucionalização, a regulamentação e o amadurecimento da infraestrutura como sinais mais importantes que o preço no curto prazo. Entre as criptomoedas, escolho o Bitcoin pela resiliência que já demonstrou e pela simplicidade de sua proposta. Minha aposta, portanto, não é no preço de amanhã, mas no papel que um ativo escasso, descentralizado e global pode desempenhar até 2030.
 
 ------------------------------------------------------------------------
