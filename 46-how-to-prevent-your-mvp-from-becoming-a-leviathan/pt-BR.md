@@ -1,3 +1,7 @@
+# Como impedir que seu MVP vire um Leviatã
+
+_Entre a complexidade que antecipa o futuro e a simplicidade que impede o aprendizado._
+
 **Resumo:** Um MVP não é o menor produto que conseguimos colocar no ar, mas o menor conjunto necessário para testar uma hipótese e aprender algo relevante com o resultado. O risco está tanto em construir demais, antecipando problemas que talvez nunca existam, quanto em construir de menos e comprometer a validade do aprendizado. Por isso, a complexidade precisa ser proporcional ao que sabemos, aos riscos que realmente importam e às perguntas que precisamos responder naquele momento. O MVP pode crescer conforme aprendemos, mas esse crescimento deve ser consequência do conhecimento adquirido, não da tentativa de antecipar o futuro.
 
 ------------------------------------------------------------------------
