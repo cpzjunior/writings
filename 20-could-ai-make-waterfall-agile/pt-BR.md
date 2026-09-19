@@ -1,3 +1,7 @@
+# Será que a IA pode tornar o waterfall ágil?
+
+_Se a IA torna o código mais barato de produzir, ela também pode reduzir o custo que historicamente separa waterfall de Agile?_
+
 **Resumo:** Eu defendo que a IA pode tornar processos mais prescritivos, próximos do waterfall, compatíveis com ciclos rápidos de aprendizado, porque reduz drasticamente o tempo entre planejar, construir e validar. Isso não transforma waterfall em Agile, mas enfraquece a antiga oposição entre os dois ao permitir planejamento detalhado sem necessariamente exigir longos períodos até o feedback. Nesse cenário, a agilidade passa menos pela forma de planejar e mais pela velocidade com que descobrimos que uma decisão estava errada.
 
 ------------------------------------------------------------------------
