@@ -6,6 +6,14 @@ I write as a way of organizing thoughts, exploring ideas, and questioning assump
 
 Articles are organized by title and may be available in English, Portuguese, and Spanish.
 
+## Translation notice
+
+All texts were originally written and published in Brazilian Portuguese (pt-BR) on my Substack, which is why the Portuguese version is the authoritative one.
+
+The other versions are automatically translated to make the content available to a broader audience while keeping the process productive and scalable.
+
+If you find any translation errors, please report them by opening an issue or submitting a pull request.
+
 ## License
 
 Unless otherwise stated, all writings are © 2026 Carlos Zanoveli.
