@@ -1,3 +1,7 @@
+# Entendendo as cadeiras de Tecnologia
+
+_Os cargos de tecnologia não se distinguem pelo quanto de tecnologia cada profissional conhece, mas pelo tipo de decisão que precisa tomar e pelo nível de responsabilidade sobre os resultados._
+
 **Resumo:** Eu defendo que a carreira em tecnologia não deve ser vista como uma escada de cargos, mas como uma jornada em que cada cadeira traz problemas, responsabilidades e competências diferentes. Experiência ajuda, mas não prepara automaticamente para o próximo papel: é preciso desenvolver deliberadamente o repertório necessário antes de assumir uma nova responsabilidade. À medida que o escopo aumenta, o conhecimento técnico não perde importância, mas passa a se combinar com pessoas, processos, negócios, estratégia e tomada de decisão. Por isso, mais importante do que perguntar qual é o próximo cargo é decidir qual problema quero estar preparado para resolver e começar hoje a me preparar para ele.
 
 ------------------------------------------------------------------------
