@@ -1,3 +1,7 @@
+# Conselhos que eu daria para o meu eu de 20 anos atrás
+
+_Se eu pudesse falar com a versão mais jovem de mim, que mensagem eu lhe transmitiria?_
+
 **Resumo:** Eu aprendi que uma vida bem construída depende menos de acertar tudo de primeira e mais de cuidar do que sustenta o longo prazo: saúde, aprendizado, relacionamentos, responsabilidade e autonomia. Quero desenvolver amplitude sem abrir mão de profundidade, aprender com as frustrações sem tratá-las como sinais de desistência e tomar decisões com mais clareza, paciência e prudência. No trabalho e nas finanças, prefiro construir capacidade e patrimônio antes de buscar resultados rápidos, mantendo minhas próprias teses e assumindo os riscos das minhas escolhas. No fim, meu conselho é simples: conheça a própria trajetória, preserve o que importa e siga avançando, mesmo quando o caminho não sair como planejado.
 
 ------------------------------------------------------------------------
