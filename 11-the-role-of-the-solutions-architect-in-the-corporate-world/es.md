@@ -1,6 +1,6 @@
 # El papel del arquitecto de soluciones en el mundo corporativo
 
-*Un buen arquitecto de soluciones es como un mediocentro defensivo: no es necesariamente quien más aparece, pero es quien mantiene al equipo funcionando.*
+_Un buen arquitecto de soluciones es como un mediocentro defensivo: no es necesariamente quien más aparece, pero es quien mantiene al equipo funcionando._
 
 **Resumen:** Defiendo que el arquitecto de soluciones debe actuar más como un mediocentro defensivo que como el protagonista del equipo: su papel es entender el juego completo, anticipar riesgos, conectar diferentes áreas y crear las condiciones para que los especialistas tomen buenas decisiones con autonomía. Esto exige saber cuándo intervenir en las decisiones realmente estructurales y cuándo apartarse, distinguiendo el riesgo arquitectónico de la preferencia personal. Al final, su valor no está en controlarlo todo o ser indispensable, sino en hacer que el equipo decida mejor, evolucione con menos fricción y funcione mejor sin depender constantemente de él.
 
