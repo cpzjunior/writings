@@ -1,3 +1,7 @@
+# O que o Vasco pode nos ensinar sobre gestão
+
+_Cultura, liderança e os riscos de construir organizações que dependem mais de pessoas do que de instituições_
+
 **Resumo:** Uso o Vasco como estudo de caso para defender que problemas persistentes de uma organização podem ser mais culturais do que administrativos. Quando liderança, decisões e conhecimento ficam concentrados em pessoas, a instituição se torna instável, reativa e incapaz de acumular capacidade ao longo do tempo. Por isso, não basta buscar gestores melhores, copiar concorrentes ou resgatar a força do passado: é preciso construir processos, incentivos e referências que sobrevivam às pessoas e às crises. Para mim, o verdadeiro legado de um gestor é deixar a organização mais forte, previsível e capaz de continuar tomando boas decisões depois que ele sair.
 
 ------------------------------------------------------------------------
