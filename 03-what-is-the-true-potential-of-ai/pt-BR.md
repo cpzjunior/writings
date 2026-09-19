@@ -1,3 +1,7 @@
+# Qual o verdadeiro potencial da IA?
+
+_A grande transformação da IA talvez não esteja em substituir aquilo que já fazemos, mas em introduzir uma nova camada de decisão dentro dos sistemas e processos que construímos._
+
 **Resumo:** Eu comecei vendo a IA como uma evolução do machine learning que precisaria provar que conseguia escalar no mundo real, mas minha percepção mudou quando ela passou a formar uma nova camada arquitetural, capaz de incorporar inteligência aos sistemas que já construímos. Para mim, seu maior potencial não está em simplesmente substituir programadores ou automatizar tarefas, mas em permitir que agentes interpretem contexto, explorem possibilidades e decidam como utilizar capacidades existentes dentro de processos controlados. Isso torna engenharia, especificação, governança e segurança ainda mais importantes, porque autonomia não pode significar autoridade. Ainda não sabemos se estamos diante de uma nova era ou de uma bolha, mas já não consigo olhar para a IA apenas como uma tecnologia mais sofisticada: o que importa agora é descobrir até onde essa nova camada de decisão pode escalar.
 
 ------------------------------------------------------------------------
