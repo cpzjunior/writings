@@ -1,3 +1,7 @@
+# Quando a venda se concretiza, o relacionamento apenas começa
+
+_Por que entender aquilo que se vende, alinhar expectativas e acompanhar o cliente depois do fechamento é tão importante quanto fechar o negócio._
+
 **Resumo:** A ideia central é que uma boa venda começa por conhecer profundamente o que se vende e entender de verdade o problema do cliente, porque isso permite alinhar expectativas, construir confiança e evitar promessas que a empresa não consegue cumprir. O fechamento não encerra o trabalho de Sales: ele inicia uma relação que precisa continuar conectada à experiência real do cliente. Quando essa relação gera valor, satisfação e confiança, a venda deixa de ser uma transação isolada e passa a criar renovação, expansão, indicação e novas oportunidades. No fim, a qualidade de uma venda não está apenas na receita que ela gera hoje, mas no que ela torna possível depois.
 
 ------------------------------------------------------------------------
