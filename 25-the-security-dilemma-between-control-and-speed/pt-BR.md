@@ -1,3 +1,7 @@
+# O dilema de Security: entre o controle e a velocidade
+
+_O desafio de integrar Security à engenharia sem transformar proteção em burocracia._
+
 **Resumo:** Defendo que o dilema entre Security e velocidade não se resolve escolhendo um lado, mas aproximando Security da engenharia e levando o conhecimento de segurança para o momento em que as decisões ainda estão sendo construídas. Em vez de depender de gates, aprovações e intervenções manuais, devemos transformar conhecimento especializado em padrões, automação e guardrails proporcionais ao risco. Assim, Security deixa de ser uma etapa que a engenharia precisa esperar e passa a ser uma capacidade integrada ao processo. O objetivo final não é eliminar riscos, mas permitir que a organização aprenda, experimente e inove sabendo quais riscos está assumindo.
 
 ------------------------------------------------------------------------
