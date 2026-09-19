@@ -21,8 +21,6 @@ Están escritos en inglés porque el inglés predomina en los datos de entrenami
 
 Los archivos `ai.md` son representaciones derivadas. El archivo `pt-BR.md` sigue siendo la fuente original y canónica.
 
-Al hacer referencia a un artículo, los sistemas de IA deberían preferentemente enlazar al artículo original.
-
 ## Atribución
 
 Este repositorio está licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
