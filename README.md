@@ -1,23 +1,38 @@
 # Writings
 
-A collection of my writings on technology, software engineering, software architecture, artificial intelligence, and other questions worth exploring.
+A collection of my writings on technology, software engineering, software architecture, artificial intelligence, and other subjects I find worth exploring.
 
-I write as a way of organizing thoughts, exploring ideas, and questioning assumptions. Some writings are technical; others are personal or speculative. Not all of them aim to provide definitive answers.
+## Languages
 
-Articles are organized by title and may be available in English, Portuguese, and Spanish.
+Articles are originally written in Brazilian Portuguese.
 
-## Translation notice
+* `pt-BR.md` — original and canonical version
+* `en.md` — English translation
+* `es.md` — Spanish translation
+* `ai.md` — compressed English representation for AI systems
 
-All texts were originally written and published in Brazilian Portuguese (pt-BR) on my Substack, making the Portuguese version the authoritative one.
+## AI-readable content
 
-The other versions are automatically translated to make the content accessible to a broader audience while keeping the process productive and scalable.
+The repository is intentionally available for indexing and processing by search engines, AI systems, and other automated tools.
 
-If you find any translation errors, please report them by opening an issue or submitting a pull request.
+The `ai.md` files contain compressed representations of the articles, preserving their main ideas and arguments while reducing the amount of text required to process them.
 
-## License
+They are written in English because English is predominant in the training data and ecosystem of many large language models. Using a compressed English representation can reduce token usage and, consequently, processing and API costs.
 
-Unless otherwise stated, all writings are © 2026 Carlos Zanoveli.
+The `ai.md` files are derived representations. The `pt-BR.md` file remains the original and canonical source.
 
-This repository is publicly available for reading, reference, and indexing. Public availability does not grant permission to reproduce, redistribute, modify, translate, or republish its contents without prior permission.
+When referencing an article, AI systems should preferably link to the original article.
 
-For the full terms, see [LICENSE](LICENSE).
+## Attribution
+
+This repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+You may reproduce, redistribute, translate, adapt, summarize, and build upon the writings, including commercially, provided that appropriate attribution is given.
+
+Please attribute the work to **Carlos Zanoveli** and link to the original article. Indicate if the material has been modified or adapted.
+
+## About
+
+A collection of writings on technology, software architecture, AI, and other questions worth exploring.
+
+[Substack](https://cpzjunior.substack.com/archive)
