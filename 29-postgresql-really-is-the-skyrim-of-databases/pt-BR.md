@@ -1,3 +1,7 @@
+# PostgreSQL realmente é o Skyrim dos bancos de dados
+
+_Um produto completo por si só, mas com uma comunidade capaz de transformá-lo em algo que seus próprios criadores talvez jamais conseguissem construir sozinhos._
+
 **Resumo:** Eu vejo o PostgreSQL como o Skyrim dos bancos de dados não pela quantidade de extensões, mas porque é um produto completo que também funciona como uma plataforma aberta à comunidade. Sua arquitetura permite que terceiros adicionem novos modelos de dados, workloads e formas de execução sem abandonar a fundação original, levando o PostgreSQL a territórios que seus criadores jamais poderiam cobrir sozinhos. Essa extensibilidade, porém, também traz complexidade operacional quando as extensões se acumulam. No fim, a grandeza do PostgreSQL está justamente em não precisar fazer tudo para permitir que outras pessoas descubram até onde ele pode chegar.
 
 ------------------------------------------------------------------------
