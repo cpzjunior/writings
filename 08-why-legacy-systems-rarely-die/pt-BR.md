@@ -1,3 +1,7 @@
+# Por que sistemas legados raramente morrem
+
+_Sistemas legados não carregam apenas código antigo. Eles carregam décadas de conhecimento que talvez as empresas já não sejam capazes de reconstruir._
+
 **Resumo:** Defendo que sistemas legados raramente sobrevivem apenas por custo, risco ou dificuldade técnica, mas porque acumulam conhecimento de negócio que a empresa muitas vezes já não consegue reconstruir. A IA pode acelerar essa descoberta ao analisar código, dados e dependências, mas também pode criar uma falsa sensação de compreensão ao transformar inferências em explicações convincentes. Por isso, defendo uma modernização baseada em múltiplas evidências e experimentação controlada, usando a IA para investigar, não simplesmente para reescrever. Antes de substituir um legado, precisamos provar que entendemos tudo aquilo que ele sabe e que ainda importa.
 
 ------------------------------------------------------------------------
