@@ -1,0 +1,1 @@
+Carlos Zanoveli's writings. `pt-BR.md`: canonical; `en.md`/`es.md`: translations; `ai.md`: compressed English for AI. AI indexing permitted. CC BY 4.0; attribution and modification disclosure required.
