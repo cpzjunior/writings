@@ -1,3 +1,7 @@
+# Quanto da inteligência humana precisamos reproduzir?
+
+_Uma reflexão de um arquiteto de soluções sobre complexidade, abstração e inteligência artificial geral._
+
 **Resumo:** Minha tese é que talvez não precisemos reproduzir toda a inteligência humana para construir uma inteligência artificial geral. Assim como em sistemas distribuídos, podemos decompor capacidades como percepção, memória, planejamento e execução em componentes especializados, conectados por comunicação, observabilidade, ferramentas e ciclos de feedback. Nesse modelo, a inteligência emerge menos de um agente isolado e mais da coordenação entre partes relativamente simples. O desafio, portanto, não é copiar o cérebro, mas descobrir qual arquitetura distribuída é suficiente para produzir um sistema inteligente.
 
 ------------------------------------------------------------------------
