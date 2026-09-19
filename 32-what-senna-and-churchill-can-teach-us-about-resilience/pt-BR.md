@@ -1,3 +1,7 @@
+# O que Senna e Churchill podem nos ensinar sobre resiliência
+
+_Resiliência não é nunca desistir, mas adaptar-se à adversidade sem perder de vista o que importa._
+
 **Resumo:** Mostro que resiliência não é simplesmente nunca desistir, mas saber o que vale a pena preservar quando a realidade deixa de colaborar. Senna e Churchill mostram que convicção não significa insistir no mesmo caminho: é preciso preparar-se, adaptar os meios, reconhecer os limites do controle e buscar ajuda quando necessário. Podemos perder uma batalha, mudar de estratégia ou admitir um erro sem abandonar aquilo que realmente importa. Em última análise, ser resiliente é continuar trabalhando enquanto ainda houver algo importante a construir, mesmo sem garantia de que o resultado virá.
 
 ------------------------------------------------------------------------
