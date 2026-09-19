@@ -1,3 +1,7 @@
+# PMBOK não é receita de bolo: o papel do tailoring na gestão de projetos
+
+_Assim como arquitetura de software é uma resposta a requisitos e restrições, gestão também precisa ser desenhada para o contexto._
+
 **Resumo:** Defendo que o PMBOK não deve ser tratado como uma receita de bolo, mas como um repertório de práticas que precisa ser adaptado ao contexto de cada projeto. Assim como na arquitetura de software, primeiro devemos entender requisitos, restrições, riscos e trade-offs para então definir a solução de gestão adequada. Tailoring não significa simplesmente fazer menos, mas dimensionar conscientemente a governança necessária, evitando tanto burocracia quanto controles insuficientes. Maturidade, portanto, está menos em seguir processos e mais em saber justificar as escolhas e evoluí-las conforme o problema muda.
 
 ------------------------------------------------------------------------
