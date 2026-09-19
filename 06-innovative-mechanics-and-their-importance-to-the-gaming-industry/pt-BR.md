@@ -1,3 +1,7 @@
+# Mecânicas inovadoras e sua importância para a indústria dos jogos
+
+_Talvez o futuro dos videogames não esteja em mundos maiores, mas em novas formas de interagir com eles_
+
 **Resumo:** Defendo que a inovação nos videogames não está em criar mundos maiores ou adicionar mais conteúdo, mas em ampliar as possibilidades de interação do jogador. As mecânicas mais interessantes são aquelas que transformam sistemas conhecidos em novas formas de jogar, fazendo o mundo reagir às decisões e permitindo que conhecimento, preparação e experimentação substituam parte das fórmulas tradicionais. Por isso, acredito que o próximo salto dos jogos está menos em acumular sistemas e mais em questionar convenções como XP, HUD, fast travel, diálogos e progressão linear, criando mundos em que as experiências emergem das regras e das escolhas do próprio jogador.
 
 ------------------------------------------------------------------------
