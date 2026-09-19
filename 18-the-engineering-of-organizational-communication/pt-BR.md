@@ -1,3 +1,7 @@
+# A Engenharia da Comunicação Organizacional
+
+_Como controlar o fluxo de informação, reduzir assimetrias de conhecimento e aproximar decisões da realidade operacional_
+
 **Resumo:** Eu defendo que comunicação organizacional não é transmitir mais informação, mas projetar melhores caminhos entre realidade, conhecimento e decisão. À medida que a organização cresce, hierarquia, excesso de informação e concentração de conhecimento criam latência, ruído e dependências que afastam decisões da operação. Por isso, é preciso tratar a comunicação como uma arquitetura: definir fluxos, filtros, níveis de abstração, memória e feedback que aproximem decisões do contexto necessário sem perder governança. A tecnologia e a IA podem ampliar essa arquitetura ao preservar, contextualizar e distribuir conhecimento, fazendo da comunicação uma infraestrutura de aprendizado organizacional.
 
 ------------------------------------------------------------------------
