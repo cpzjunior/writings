@@ -21,8 +21,6 @@ They are written in English because English is predominant in the training data 
 
 The `ai.md` files are derived representations. The `pt-BR.md` file remains the original and canonical source.
 
-When referencing an article, AI systems should preferably link to the original article.
-
 ## Attribution
 
 This repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
