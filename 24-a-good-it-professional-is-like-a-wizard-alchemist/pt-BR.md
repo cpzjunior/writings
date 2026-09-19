@@ -1,3 +1,7 @@
+# O bom profissional de TI é como um mago-alquimista
+
+_Trabalhar com tecnologia exige saber aplicar o que já foi consolidado, reutilizar experiências e produzir conhecimento novo._
+
 **Resumo:** Vejo o bom profissional de TI como um mago-alquimista: alguém que sabe recorrer ao conhecimento já consolidado, reutilizar experiências e reconhecer quando isso não basta. Quando a resposta não está no grimório, é preciso ir à bancada, formular hipóteses, experimentar e transformar incerteza em conhecimento. Mas descobrir não basta: é preciso registrar e compartilhar o que foi aprendido para que a experiência individual se torne conhecimento coletivo. No fim, excelência em TI não é escolher entre aplicar e descobrir, mas saber transitar entre os dois.
 
 ------------------------------------------------------------------------
