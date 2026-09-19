@@ -1,3 +1,7 @@
+# Boas ideias também quebram
+
+_Como estratégia, execução e o ciclo do dinheiro determinam a sustentabilidade das empresas_
+
 **Resumo:** Uma boa ideia não garante, por si só, a sustentabilidade de um negócio. É preciso transformar valor em receita, receita em caixa e caixa em capacidade para sustentar o próximo ciclo, porque decisões aparentemente corretas podem, juntas, criar uma operação economicamente inviável. Métricas financeiras e operacionais ajudam a revelar quando as premissas deixam de se sustentar e, principalmente, quando ainda há tempo para corrigir a trajetória.
 
 ------------------------------------------------------------------------
