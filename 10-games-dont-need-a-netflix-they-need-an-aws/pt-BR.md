@@ -1,3 +1,7 @@
+# Games não precisam de uma Netflix, precisam de uma AWS
+
+_E se o erro fundamental dos serviços de jogos por assinatura for tratar o catálogo de jogos como produto, quando o verdadeiro produto que o usuário quer alugar é capacidade computacional?_
+
 **Resumo:** Eu defendo que o cloud gaming está sendo pensado pelo modelo errado: em vez de transformar jogos em uma Netflix, deveríamos separar o jogo da máquina que o executa. O usuário não precisa de centenas de títulos, mas de acesso à capacidade computacional necessária para jogar aquilo que escolheu, sem precisar comprar hardware para vários anos. Assim como a nuvem transformou computação em uma infraestrutura elástica, jogos poderiam ser executados em máquinas alugadas sob demanda, enquanto a compra e a distribuição dos jogos permanecem independentes. O futuro, portanto, pode estar menos em uma Netflix dos games e mais em uma AWS dos games.
 
 ------------------------------------------------------------------------
