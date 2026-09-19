@@ -1,3 +1,7 @@
+# E se criarmos uma infraestrutura distribuída para o terceiro setor?
+
+_Existem informações cujo valor social aumenta com a sua circulação, e não com a sua exclusividade._
+
 **Resumo:** Defendo a criação de uma infraestrutura digital distribuída para o terceiro setor, baseada em protocolos abertos que permitam às organizações compartilhar informações sem abrir mão de seus próprios sistemas e autonomia. A ideia é separar produção de distribuição, fazendo com que necessidades, oportunidades e recursos possam circular por diferentes aplicações e chegar a quem pode transformá-los em ação. Em vez de concentrar dados e poder em uma nova plataforma, essa camada comum ampliaria coletivamente o alcance das iniciativas existentes. O sucesso, portanto, não estaria em possuir a rede, mas em quantas conexões relevantes ela torna possíveis.
 
 ------------------------------------------------------------------------
