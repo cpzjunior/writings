@@ -1,3 +1,7 @@
+# Empresas não são clubes de futebol, mas talvez seja útil pensar nelas dessa forma
+
+_Em um país que respira futebol, talvez olhar para as empresas como clubes nos ajude a enxergar cultura, estratégia, talento, treinamento e gestão por outro ângulo._
+
 **Resumo:** Eu proponho olhar para empresas como clubes de futebol: o resultado de hoje não depende apenas de quem está em campo, mas da cultura, da estrutura, da formação e das relações construídas ao longo do tempo. Por isso, contratar bons profissionais não basta; é preciso formar equipes complementares, dar clareza sobre como jogar, desenvolver autonomia e saber quando preservar ou romper padrões. Também cabe ao gestor criar razões para as pessoas vestirem a camisa e construir um ambiente em que talento, questionamento e desenvolvimento contribuam para algo maior que a performance imediata. No fim, gerir bem é menos trocar jogadores e mais construir um clube capaz de continuar evoluindo.
 
 ------------------------------------------------------------------------
