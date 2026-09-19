@@ -21,8 +21,6 @@ Eles são escritos em inglês porque o inglês é predominante nos dados de trei
 
 Os arquivos `ai.md` são representações derivadas. O arquivo `pt-BR.md` permanece como a fonte original e canônica.
 
-Ao fazer referência a um artigo, os sistemas de IA devem preferencialmente incluir um link para o artigo original.
-
 ## Atribuição
 
 Este repositório é licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
