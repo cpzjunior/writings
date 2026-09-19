@@ -1,3 +1,7 @@
+# Pessoas, incentivos e cultura como mecanismos de execução da estratégia
+
+_Como partnership, People e cultura transformam estratégia em comportamento._
+
 **Resumo:** Defendo que estratégia só se torna realidade quando os mecanismos da organização fazem as pessoas tomarem, repetidamente, decisões na mesma direção. Partnership, People, incentivos, liderança, cultura e Marketing são diferentes formas de produzir esse alinhamento, influenciando quem entra, quem cresce, quem é recompensado, quem permanece e quais comportamentos ganham significado. O ponto não é ter boas práticas isoladas, mas garantir que todas contem a mesma história. Quando esses mecanismos são coerentes, estratégia deixa de ser uma apresentação e começa a virar organização.
 
 ------------------------------------------------------------------------
