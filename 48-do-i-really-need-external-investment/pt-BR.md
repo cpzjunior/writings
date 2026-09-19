@@ -1,3 +1,7 @@
+# Eu preciso mesmo de investimento externo?
+
+_Bootstrapping, capital externo e o custo de construir uma empresa que talvez eu não queira administrar._
+
 **Resumo:** Quando penso em empreender, vejo a escolha entre bootstrapping e investimento externo menos como uma decisão financeira e mais como uma decisão sobre o tipo de empresa que quero construir. Capital pode acelerar a execução e ajudar a aproveitar oportunidades, mas também traz diluição, expectativas e uma pressão por crescimento que talvez eu não queira. Por outro lado, não captar também tem um custo, porque posso perder velocidade e espaço para concorrentes. Construir uma empresa também não significa necessariamente administrá-la para sempre: posso vendê-la e seguir para outro projeto. No fim, antes de decidir quanto dinheiro levantar, preciso entender que futuro quero financiar e se estou disposto a construir a empresa que esse capital vai exigir.
 
 ------------------------------------------------------------------------
