@@ -1,3 +1,7 @@
+# Fundamentos da arquitetura patrimonial: projetando o patrimônio como um sistema
+
+_Uma perspectiva de arquitetura de soluções sobre requisitos, componentes, risco, segurança, redundância e resiliência patrimonial_
+
 **Resumo:** Eu proponho pensar o patrimônio não como uma coleção de investimentos, mas como um sistema que precisa ser projetado para cumprir requisitos, absorver falhas e continuar funcionando quando as circunstâncias mudarem. Isso exige separar responsabilidades, reduzir dependências críticas, criar redundância e isolamento, estabelecer segurança e governança e evitar tanto a simplicidade frágil quanto a complexidade desnecessária. Mais do que preservar ativos, a arquitetura deve preservar a capacidade de o patrimônio cumprir sua finalidade ao longo do tempo. No limite, seu verdadeiro teste é continuar funcionando quando o próprio arquiteto deixar de ser o operador.
 
 ------------------------------------------------------------------------
