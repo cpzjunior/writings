@@ -1,3 +1,7 @@
+# Antes de tirar uma ideia do papel, é preciso colocá-la nele
+
+_Canvas e frameworks ajudam a pensar partes de um problema. O desafio é conectá-los em uma metodologia capaz de transformar uma ideia em uma iniciativa que possa ser compreendida e executada._
+
 **Resumo:** Eu proponho uma metodologia diferente para tirar ideias do papel, partindo da crítica ao uso de frameworks desconexos que fragmentam um processo que deveria ser contínuo. A proposta é organizar as diferentes abordagens em uma sequência lógica, em que cada etapa responde a uma pergunta e prepara a próxima. Assim, problemas, hipóteses, solução e validação deixam de ser exercícios isolados e passam a fazer parte de um mesmo processo de construção. É uma metodologia ainda embrionária, mas que busca dar coerência ao caminho entre uma ideia e sua execução.
 
 ------------------------------------------------------------------------
