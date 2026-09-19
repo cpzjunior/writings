@@ -1,3 +1,7 @@
+# E se o metaverso tiver feito a pergunta certa, mas procurado a resposta na direção errada?
+
+_Uma especulação sobre realidade aumentada, HUDs, agentes contextuais e o futuro das interfaces computacionais_
+
 **Resumo:** Acho que o metaverso não errou ao imaginar uma computação mais integrada ao mundo real, mas ao assumir que isso exigiria abandonar o mundo físico. A direção mais promissora parece ser outra: combinar realidade aumentada, IA e agentes contextuais para colocar a informação no ambiente, entender o contexto e agir a partir da intenção do usuário. Nesse modelo, a interface deixa de exigir nossa atenção e passa a se adaptar ao que estamos fazendo. Talvez o futuro da computação espacial não seja entrar no computador, mas fazer o computador entrar no nosso cotidiano.
 
 ------------------------------------------------------------------------
