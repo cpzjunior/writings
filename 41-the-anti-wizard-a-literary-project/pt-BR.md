@@ -1,3 +1,7 @@
+# O Anti-Mago: Um Projeto Literário
+
+_Quem vigia aqueles que têm o poder de governar toda a sociedade, e o que acontece quando alguém recebe poder suficiente para julgá-los sem sofrer consequências?_
+
 **Resumo:** Neste projeto literário, desenvolvo o Universum Arcanum a partir da trajetória de Alden, um homem que nasce à margem da elite mágica, conquista seu espaço dentro dela e descobre na anti-magia uma forma de agir fora dos mecanismos tradicionais de controle. Ao se tornar investigador, ele passa a confrontar a corrupção e as contradições das instituições que concentram o poder, até transformar sua busca por justiça em uma cruzada cada vez mais difícil de distinguir de vingança. Quando finalmente chega ao topo como arquimago, Alden precisa lidar com as consequências das próprias escolhas e com a contradição central de sua trajetória: como alguém que aprendeu a agir sem responder a ninguém poderá exercer o poder sem se tornar aquilo que passou a vida combatendo?
 
 ------------------------------------------------------------------------
