@@ -1,3 +1,7 @@
+# Qual o mercado mais adequado para a minha empresa?
+
+_Um panorama dos mercados, ecossistemas e condições para empreender no Brasil e no exterior._
+
 **Resumo:** Não existe um mercado universalmente melhor para empreender: a escolha depende da combinação entre demanda, disposição a pagar, concorrência, custo de entrada e, principalmente, da capacidade da própria equipe de capturar a oportunidade. Por isso, tamanho de mercado, impostos ou incentivos isoladamente dizem pouco; é preciso considerar também talentos, capital, regulação, infraestrutura, vantagens dos fundadores e o estágio da empresa. O Brasil pode ser mercado, laboratório ou base operacional, enquanto outros países podem oferecer melhores condições para vender, captar capital ou escalar. No fim, o mercado mais adequado é aquele em que esta empresa consegue transformar suas vantagens em crescimento economicamente sustentável.
 
 ------------------------------------------------------------------------
