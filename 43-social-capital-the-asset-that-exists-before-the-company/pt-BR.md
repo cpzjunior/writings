@@ -1,3 +1,7 @@
+# Capital Social: O ativo que existe antes da empresa
+
+_Como relações, reputação e acesso a círculos sociais influenciam a construção e o crescimento de um negócio._
+
 **Resumo:** Defendo que toda empresa nasce com um ativo que não aparece no balanço: o valor das relações que os fundadores já construíram, que chamo de capital social. Ele envolve confiança, reputação, informação e acesso e pode reduzir significativamente a distância até pessoas, clientes e oportunidades. Como essas relações podem ser acumuladas antes e durante a trajetória empresarial, dois empreendedores igualmente competentes podem começar com custos de acesso muito diferentes e percorrer caminhos bastante distintos. É por isso que, no empreendedorismo social, não basta oferecer recursos financeiros ou conhecimento: também precisamos criar condições para que pessoas com menos acesso construam conexões capazes de aproximá-las de novas oportunidades. Afinal, antes de existir uma empresa, já existe uma trajetória e uma rede que pode influenciar seu caminho.
 
 ------------------------------------------------------------------------
