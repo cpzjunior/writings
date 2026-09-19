@@ -1,3 +1,7 @@
+# Às vezes, a melhor decisão de UX é não fazer UX neste momento
+
+_O investimento em experiência do usuário deve ser proporcional à maturidade do produto, às incertezas do negócio e aos riscos envolvidos em cada decisão._
+
 **Resumo:** Acredito que UX não deve ser tratada como um processo obrigatório, mas como uma decisão estratégica: o esforço precisa ser proporcional à incerteza, ao risco, ao custo de errar e à possibilidade de corrigir depois. Em produtos em validação, muitas vezes basta uma experiência suficientemente boa para testar a hipótese, enquanto decisões críticas e difíceis de reverter exigem mais investigação. Da mesma forma, em produtos maduros, mudar uma interface pode gerar mais custo de adaptação do que valor. No fim, maturidade em UX não é fazer mais, mas saber onde o próximo minuto de UX produzirá mais valor.
 
 ------------------------------------------------------------------------
