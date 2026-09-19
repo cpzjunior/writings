@@ -1,3 +1,7 @@
+# O que os piores tipos de decisão da história nos ensinam sobre arquitetura de decisão
+
+_O que os erros de impérios, governos e empresas revelam sobre estratégia, gestão e tomada de decisão_
+
 **Resumo:** Gosto de história porque ela permite observar como decisões, recursos, restrições e incentivos se combinam ao longo do tempo. Neste texto, uso alguns casos históricos e empresariais para entender por que certas decisões colocaram organizações em posições difíceis de reverter, seja por um erro na forma de enxergar o problema, pela criação de dependências, pela perda de opções ou pela dificuldade de mudar de direção a tempo. O que me interessa não é julgar essas escolhas pelo resultado que conhecemos hoje, mas entender o que havia por trás delas quando foram tomadas e quais consequências estavam embutidas em cada caminho. É essa perspectiva que quero explorar quando penso em arquitetura de decisão.
 
 ------------------------------------------------------------------------
