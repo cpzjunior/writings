@@ -1,3 +1,7 @@
+# Por que eu abriria hoje uma startup com mais de uma atividade principal
+
+_Diversificar negócios pode ser uma estratégia de inovação, e não apenas uma forma de reduzir riscos._
+
 **Resumo:** Eu abriria hoje uma startup com mais de uma atividade-fim porque acredito que foco não significa fazer uma única coisa, mas saber onde concentrar recursos e manter outras possibilidades abertas. Uma atividade principal pode sustentar financeiramente as demais, enquanto pessoas, tecnologia e conhecimento circulam entre elas, criando novas oportunidades e aprendizado. Para mim, a diversificação pode ser menos uma proteção contra riscos e mais uma estratégia deliberada de experimentação e descoberta.
 
 ------------------------------------------------------------------------
