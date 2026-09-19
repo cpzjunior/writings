@@ -1,3 +1,7 @@
+# Suporte humano como mecanismo de evolução da automação
+
+_Como combinar inteligência artificial, atendimento humanizado e feedback para construir um suporte mais eficiente, escalável e capaz de aprender com seus próprios clientes._
+
 **Resumo:** Defendo que o futuro do suporte não está em escolher entre IA e atendimento humano, mas em fazer os dois trabalharem juntos. A IA deve resolver o que já conhecemos e conseguimos automatizar, enquanto o humano assume os casos que exigem contexto e julgamento, transformando soluções recorrentes em conhecimento que amplia a automação. O feedback dos clientes completa esse ciclo ao revelar não só o que precisa ser automatizado, mas também o que precisa ser documentado ou eliminado no próprio produto. O objetivo, portanto, não é eliminar o contato humano, mas reduzir o esforço do cliente e transformar cada interação em uma oportunidade para melhorar o sistema.
 
 ------------------------------------------------------------------------
