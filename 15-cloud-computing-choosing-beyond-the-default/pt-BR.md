@@ -1,3 +1,7 @@
+# Cloud Computing: escolhendo além do default
+
+_Um mapa das principais clouds, seus pontos fortes, equivalências e os trade-offs entre simplicidade, portabilidade, custo e resiliência._
+
 **Resumo:** Eu defendo que escolher uma cloud não deveria ser uma decisão baseada em familiaridade ou no tamanho do provedor, mas nas características concretas de cada workload. As equivalências entre plataformas ajudam a orientar a comparação, mas não eliminam diferenças de custo, operação, serviços, hardware, compliance e lock-in. Single-cloud e multi-cloud também não são posições ideológicas: cada uma traz custos, benefícios e riscos que precisam ser avaliados junto às dependências reais da arquitetura. No fim, a melhor escolha é aquela que equilibra o que o workload exige com o custo de implementar, operar e eventualmente mudar essa arquitetura.
 
 ------------------------------------------------------------------------
