@@ -1,3 +1,7 @@
+# Arquitetura de soluções aplicada a mercados financeiros, governos, cadeias de suprimentos e geopolítica
+
+_Uma perspectiva de arquitetura sobre autoridade, confiança, dependências, interfaces e falhas em sistemas complexos_
+
 **Resumo:** Eu proponho aplicar a lente da arquitetura de soluções a sistemas que vão muito além do software, como mercados financeiros, governos, cadeias de suprimentos e geopolítica. Ao observar componentes, interfaces, dependências, capacidade, autoridade e modos de falha, conseguimos tornar visíveis relações que normalmente ficam escondidas. Essa perspectiva não pretende explicar esses sistemas por completo, mas oferecer uma forma mais precisa de raciocinar sobre sua estrutura e comportamento sob estresse. Com isso, a arquitetura de soluções deixa de ser apenas uma disciplina técnica e passa a ser também uma forma de analisar e projetar sistemas complexos.
 
 ------------------------------------------------------------------------
