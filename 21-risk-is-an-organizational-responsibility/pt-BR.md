@@ -1,3 +1,7 @@
+# Risco é uma responsabilidade organizacional
+
+_Por que risco não é responsabilidade de uma área, mas uma dimensão de toda decisão organizacional_
+
 **Resumo:** Risco não é responsabilidade de uma área específica, mas uma dimensão de toda decisão organizacional, porque cada escolha cria dependências, concentrações e limitações futuras. As funções especializadas devem estruturar, questionar e monitorar essas exposições, mas não podem assumir a responsabilidade de quem decide. Gestão de riscos, portanto, não significa eliminar incertezas, mas torná-las visíveis, atribuir ownership e escolher conscientemente quais riscos assumir. No fim, uma organização madura não é a que prevê ou evita todos os riscos, mas a que consegue decidir bem diante deles.
 
 ------------------------------------------------------------------------
