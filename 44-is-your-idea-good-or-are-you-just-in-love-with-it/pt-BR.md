@@ -1,3 +1,7 @@
+# Sua ideia é boa ou você só está apaixonado por ela?
+
+_O erro mais perigoso não é defender uma ideia ruim. É construir um sistema mental em que qualquer evidência possa ser interpretada como confirmação de uma ideia que já decidimos ser boa._
+
 **Resumo:** Validar uma ideia não é encontrar evidências que confirmem nossa crença, mas criar testes capazes de mudá-la. Quando nos apaixonamos pela solução, começamos a transformar interesse em demanda, explicar resultados negativos, confundir correlação com causa e ajustar critérios para preservar a hipótese. Por isso, o problema precisa permanecer maior que o produto: a solução é apenas uma hipótese que pode ser descartada enquanto a realidade orienta onde investir tempo, dinheiro e atenção. No fim, validar significa reduzir a incerteza o suficiente para tomar uma decisão melhor, inclusive quando isso exige abandonar aquilo que inicialmente parecia uma boa ideia. A pergunta mais importante, portanto, não é “como provar que minha ideia é boa?”, mas “que evidência me faria abandoná-la?”.
 
 ------------------------------------------------------------------------
