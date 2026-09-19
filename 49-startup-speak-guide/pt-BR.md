@@ -1,3 +1,7 @@
+# Guia de Startupês
+
+_Um guia prático sobre os principais termos do ecossistema de startups, com definições, exemplos concretos e termos relacionados, organizado por níveis de complexidade._
+
 **Resumo:** Gosto da ideia de tratar o vocabulário de startups como uma língua estrangeira: no começo, basta aprender as palavras essenciais para entender o que está sendo dito; depois, as relações entre esses termos permitem acompanhar conversas sobre produto, mercado, crescimento, dinheiro e sociedade. Por isso, organizei os principais conceitos do Startupês em níveis de complexidade, priorizando o repertório necessário para reconhecer os termos e entender como eles se conectam, sem tentar criar um dicionário definitivo. A ideia não é formar especialistas, mas dar contexto suficiente para que essas palavras deixem de parecer uma sequência de siglas incompreensíveis. Você não precisa falar Startupês fluentemente. Só precisa deixar de achar que estão falando outra língua.
 
 ------------------------------------------------------------------------
