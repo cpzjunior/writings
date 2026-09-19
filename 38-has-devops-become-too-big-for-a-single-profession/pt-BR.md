@@ -1,3 +1,7 @@
+# DevOps ficou grande demais para uma única profissão?
+
+_Se Security pode ser dividida em especialidades, por que DevOps ainda precisa caber em uma única profissão?_
+
 **Resumo:** O problema de DevOps não é ter ficado grande demais, mas termos transformado um modelo operacional em uma profissão que precisa carregar tudo o que ele abrange. Assim como Security combina integração com especialização, DevOps pode distribuir profundidade entre capacidades como SRE, Platform Engineering e Security sem reconstruir os silos que buscava eliminar. O generalista continua fazendo sentido quando o contexto exige, mas não como expectativa universal. A melhor abordagem é definir as funções a partir das capacidades que a organização precisa construir, e não tentar fazer o modelo inteiro caber em uma única pessoa.
 
 ------------------------------------------------------------------------
