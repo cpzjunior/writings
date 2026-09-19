@@ -1,3 +1,7 @@
+# E se usarmos uma arquitetura modular distribuída no lugar do monólito modular?
+
+_Uma ideia de arquitetura para startups em estágio inicial que precisam crescer sem pagar desproporcionalmente por infraestrutura ou pela complexidade dos microservices._
+
 **Resumo:** Eu proponho uma arquitetura modular distribuída que separa a unidade de desenvolvimento da unidade de processamento: o módulo continua organizando código, regras e testes, enquanto cada use case pode adotar sua própria estratégia de execução e escala quando houver uma necessidade concreta. Com isso, startups podem começar com uma estrutura simples, distribuindo apenas os workloads que realmente exigirem mais capacidade, sem assumir antecipadamente a complexidade dos microservices. A ideia não é substituir o monólito modular ou os microservices, mas criar uma alternativa de partida que permita adiar decisões de infraestrutura e introduzir complexidade de forma gradual.
 
 ------------------------------------------------------------------------
