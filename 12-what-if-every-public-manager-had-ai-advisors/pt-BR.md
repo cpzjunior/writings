@@ -1,3 +1,7 @@
+# E se cada gestor público tivesse assessores de IA?
+
+_Uma proposta de experimento sobre o uso de inteligência artificial no apoio à participação, análise e formulação de políticas públicas._
+
 **Resumo:** Eu proponho investigar se a inteligência artificial pode ampliar a capacidade de gestores públicos sem substituir sua responsabilidade pela decisão. A ideia é usar múltiplos modelos para organizar demandas da população, analisar propostas, levantar riscos e apresentar perspectivas independentes, preservando divergências, incertezas e rastreabilidade. Assim, a IA funcionaria como uma camada de assessoria antes da decisão, ampliando o campo de análise disponível ao gestor. O ponto central é testar, na prática, se essa arquitetura consegue produzir decisões melhores justamente por tornar mais visíveis as informações, perspectivas e limitações envolvidas.
 
 ------------------------------------------------------------------------
