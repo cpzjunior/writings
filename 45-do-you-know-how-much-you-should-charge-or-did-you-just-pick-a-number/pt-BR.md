@@ -1,3 +1,7 @@
+# Você sabe quanto deveria cobrar ou só escolheu um número?
+
+_Precificar é decidir quanto capturar de valor hoje, sabendo que o mercado pode mudar amanhã._
+
 **Resumo:** Preço não deve ser tratado como um número escolhido por conveniência, mas como uma hipótese sobre quanto valor o mercado reconhece e como isso afeta demanda, margem e posicionamento. Como essas respostas não estão disponíveis de antemão, a empresa precisa observar o comportamento real dos clientes e transformar cada decisão em aprendizado. O preço inicial pode estar errado, desde que exista uma lógica por trás dele e disposição para revisá-lo quando as condições mudarem. O problema não é errar o preço, mas não saber por que ele foi escolhido.
 
 ------------------------------------------------------------------------
