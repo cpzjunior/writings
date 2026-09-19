@@ -1,3 +1,7 @@
+# O Mundo é Maior que a História
+
+_O que Harry Potter, Tolkien, Star Wars e os RPGs ensinam sobre a expansão de universos ficcionais_
+
 **Resumo:** Defendo que uma franquia só se torna realmente expansível quando seu universo é maior que qualquer história contada dentro dele. Mais do que criar novas obras ou acumular lore, é preciso construir um mundo com regras, instituições, culturas e uma história própria, capaz de sustentar novos protagonistas, lugares e períodos sem perder sua identidade. É essa lógica que permite a universos como Terra-média, Westeros, Star Wars e os grandes cenários de RPG continuarem existindo além de suas narrativas originais. No caso de Harry Potter, a oportunidade está em tratar Hogwarts como uma porta de entrada para um Wizarding World muito maior, e não como seu limite.
 
 ------------------------------------------------------------------------
