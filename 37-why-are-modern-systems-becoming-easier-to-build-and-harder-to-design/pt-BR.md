@@ -1,3 +1,7 @@
+# Por que sistemas modernos estão ficando mais fáceis de construir e mais difíceis de projetar?
+
+_Abstrações de cloud, o paradoxo da escolha e a inteligência artificial estão mudando a natureza da arquitetura de soluções mais rápido do que conseguimos nos adaptar._
+
 **Resumo:** Exploro os motivos pelos quais sistemas modernos estão mais fáceis de construir, mas mais difíceis de projetar: cloud, serviços gerenciados, SaaS e IA reduziram o custo de implementar soluções, mas ampliaram o espaço de escolhas e tornaram o julgamento arquitetural o principal gargalo. Nesse cenário, experiência significa saber eliminar alternativas, avaliar trade-offs, reconhecer dependências ocultas e preservar a reversibilidade das decisões. Por isso, proponho que a arquitetura de soluções precisa de um corpo de conhecimento mais sistemático, algo próximo de um “PMBOK de Solution Architecture”, para organizar o processo de decisão sem substituir o julgamento do arquiteto.
 
 ------------------------------------------------------------------------
