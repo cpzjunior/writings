@@ -4,7 +4,7 @@ Una colección de mis escritos sobre tecnología, ingeniería de software, arqui
 
 ## Idiomas
 
-Los artículos se escriben originalmente en portugués brasileño.
+Los artículos se escriben originalmente en portugués brasileño en [Substack](https://cpzjunior.substack.com/archive).
 
 * `pt-BR.md` — versión original y canónica
 * `en.md` — traducción al inglés
@@ -29,9 +29,3 @@ Este repositorio está licenciado bajo [CC BY 4.0](https://creativecommons.org/l
 Puedes reproducir, redistribuir, traducir, adaptar, resumir y desarrollar los escritos, incluso con fines comerciales, siempre que se proporcione la atribución correspondiente.
 
 Atribuye el trabajo a **Carlos Zanoveli** y enlaza al artículo original. Indica si el material ha sido modificado o adaptado.
-
-## Acerca de
-
-Una colección de escritos sobre tecnología, arquitectura de software, IA y otras cuestiones que vale la pena explorar.
-
-[Substack](https://cpzjunior.substack.com/archive)
