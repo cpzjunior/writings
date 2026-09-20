@@ -9,6 +9,7 @@ Articles are originally written in Brazilian Portuguese.
 * `pt-BR.md` — original and canonical version
 * `en.md` — English translation
 * `es.md` — Spanish translation
+* `it.md` — Italian translation
 * `ai.md` — compressed English representation for AI systems
 
 ## AI-readable content
