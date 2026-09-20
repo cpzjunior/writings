@@ -9,6 +9,7 @@ Os artigos são originalmente escritos em português brasileiro.
 * `pt-BR.md` — versão original e canônica
 * `en.md` — tradução para o inglês
 * `es.md` — tradução para o espanhol
+* `it.md` — tradução para o italiano
 * `ai.md` — representação compactada em inglês para sistemas de IA
 
 ## Conteúdo legível por IA
