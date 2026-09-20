@@ -1,4 +1,4 @@
-# E se o futuro do software empresarial não for o Micro-SaaS, mas o Business Cloud Workspace?
+# E se il futuro del software aziendale non fosse il Micro-SaaS, ma il Business Cloud Workspace?
 
 _Dalla specializzazione delle applicazioni a una piattaforma che assorba software, agenti, conoscenza e relazioni di business_
 
@@ -80,7 +80,7 @@ Una delle caratteristiche più interessanti di un cloud è permettere alla stess
 
 Il BCW potrebbe applicare questo principio alla creazione di aziende. Oggi, trasformare un'idea in un'azienda richiede la costruzione di una quantità significativa di infrastruttura che non fa necessariamente parte dell'ipotesi che si sta testando. È necessario gestire autenticazione, utenti, permessi, documenti, pagamenti, comunicazione, processi interni e una serie di altre capacità prima ancora di sapere se esiste un business.
 
-In “[Prima di tirare fuori un'idea dal cassetto, bisogna metterla sulla carta](https://cpzjunior.substack.com/p/antes-de-tirar-uma-ideia-do-papel)“, ho discusso di come un MVP coinvolga molto più che l'implementazione di alcune funzionalità. Prima che un'idea arrivi sul mercato, è necessario prendere decisioni di prodotto, esperienza, architettura, dati, sicurezza, operazioni ed esecuzione. Molte di queste sono semplicemente il prezzo da pagare per costruire l'infrastruttura necessaria affinché l'esperimento esista.
+In “[Prima di tirare un'idea fuori dal cassetto, bisogna metterla sulla carta](https://cpzjunior.substack.com/p/antes-de-tirar-uma-ideia-do-papel)“, ho discusso di come un MVP coinvolga molto più che l'implementazione di alcune funzionalità. Prima che un'idea arrivi sul mercato, è necessario prendere decisioni di prodotto, esperienza, architettura, dati, sicurezza, operazioni ed esecuzione. Molte di queste sono semplicemente il prezzo da pagare per costruire l'infrastruttura necessaria affinché l'esperimento esista.
 
 Il BCW potrebbe astrarre parte di questo lavoro. Chi sta sperimentando un'idea potrebbe utilizzare le capacità già disponibili sulla piattaforma e concentrare la propria energia su ciò che deve realmente scoprire. Autenticazione, utenti, permessi, documenti, pagamenti, comunicazione e workflow non dovrebbero essere costruiti da zero solo per mettere in funzione la prima versione del business.
 
@@ -170,7 +170,7 @@ Ma questa apertura porta con sé una conseguenza inevitabile: quanto più numero
 
 Il BCW, quindi, non dovrebbe essere un tentativo di centralizzare tutto il software aziendale in un unico fornitore. La sua funzione sarebbe centralizzare l'esperienza e le primitive comuni, mantenendo aperta la possibilità di incorporare software specializzato.
 
-Se il miglior sistema di payroll continua a essere esterno, può essere integrato. Se emerge una soluzione legale migliore, può partecipare all'ambiente. Se uno sviluppatore crea uno strumento specializzato superiore al modulo nativo, può essere installato.
+Se il miglior sistema di gestione paghe continua a essere esterno, può essere integrato. Se emerge una soluzione legale migliore, può partecipare all'ambiente. Se uno sviluppatore crea uno strumento specializzato superiore al modulo nativo, può essere installato.
 
 Il fornitore del BCW non deve prevedere tutte le esigenze, né costruire la soluzione migliore per ognuna di esse. Quanto più estensibile è la piattaforma, tanto meno è necessario anticipare il futuro. Il fornitore costruisce il substrato; l'ecosistema scopre ciò che deve esistere sopra di esso.
 
