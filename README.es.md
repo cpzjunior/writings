@@ -1,3 +1,6 @@
+| 🇺🇸 [en](README.md) | 🇪🇸 [es](README.es.md) | 🇮🇹 [it](README.it.md) | 🇧🇷 [pt-BR](README.pt-BR.md) | 🤖 [ai](README.ai.md) |
+|---|---|---|---|---|
+
 # Escritos
 
 Una colección de mis escritos sobre tecnología, ingeniería de software, arquitectura de software, inteligencia artificial y otros temas que considero que vale la pena explorar.
