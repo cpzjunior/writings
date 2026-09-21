@@ -1,3 +1,6 @@
+| 🇺🇸 [en](README.md) | 🇪🇸 [es](README.es.md) | 🇮🇹 [it](README.it.md) | 🇧🇷 [pt-BR](README.pt-BR.md) | 🤖 [ai](README.ai.md) |
+|---|---|---|---|---|
+
 # Writings
 
 A collection of my writings on technology, software engineering, software architecture, artificial intelligence, and other subjects I find worth exploring.
