@@ -1,3 +1,6 @@
+| 🇺🇸 [en](CONTRIBUTING.md) | 🇪🇸 [es](CONTRIBUTING.es.md) | 🇮🇹 [it](CONTRIBUTING.it.md) | 🇧🇷 [pt-BR](CONTRIBUTING.pt-BR.md) | 🤖 [ai](CONTRIBUTING.ai.md) |
+|---|---|---|---|---|
+
 # Contribuindo
 
 Este repositório é uma coleção dos meus textos pessoais sobre tecnologia, software, arquitetura, IA, gestão e temas relacionados.
