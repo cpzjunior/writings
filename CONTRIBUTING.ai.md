@@ -1,0 +1,1 @@
+This repository contains my writings and has a single author. Contributions may correct or improve existing content, add references or perspectives, or suggest topics. Preserve factual accuracy, clarity, reasoning, context, and authorial intent; distinguish facts, assumptions, and opinions. Do not add content by other authors. Final editorial decisions remain with the maintainer.
