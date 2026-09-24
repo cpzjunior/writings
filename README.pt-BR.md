@@ -68,6 +68,8 @@ Os artigos são originalmente escritos em português brasileiro no [Substack](ht
 * `it.md` — tradução para o italiano
 * `ai.md` — representação compactada em inglês para sistemas de IA
 
+Adicionei apenas idiomas nos quais tenho alguma proficiência, em vez de confiar cegamente em traduções geradas por IA. Se alguém puder ajudar a revisar uma tradução para outro idioma, terei prazer em adicioná-la.
+
 ## Conteúdo legível por IA
 
 O repositório está intencionalmente disponível para indexação e processamento por mecanismos de busca, sistemas de IA e outras ferramentas automatizadas.
