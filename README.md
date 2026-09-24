@@ -68,6 +68,8 @@ Articles are originally written in Brazilian Portuguese on [Substack](https://cp
 * `it.md` — Italian translation
 * `ai.md` — compressed English representation for AI systems
 
+I’ve only added languages I have some proficiency in, rather than relying blindly on AI translations. If someone can help review a translation into another language, I’d be happy to add it.
+
 ## AI-readable content
 
 The repository is intentionally available for indexing and processing by search engines, AI systems, and other automated tools.
