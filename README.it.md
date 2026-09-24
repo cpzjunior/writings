@@ -68,6 +68,8 @@ Gli articoli sono originariamente scritti in portoghese brasiliano su [Substack]
 * `it.md` — traduzione in italiano
 * `ai.md` — rappresentazione compatta in inglese per i sistemi di IA
 
+Ho aggiunto solo le lingue che conosco almeno un po’, invece di affidarmi ciecamente alle traduzioni generate dall’IA. Se qualcuno può aiutare a revisionare una traduzione in un’altra lingua, sarò felice di aggiungerla.
+
 ## Contenuti leggibili dall'IA
 
 Il repository è intenzionalmente disponibile per l'indicizzazione e l'elaborazione da parte dei motori di ricerca, dei sistemi di IA e di altri strumenti automatizzati.
