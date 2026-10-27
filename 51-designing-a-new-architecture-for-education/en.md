@@ -1,6 +1,6 @@
 # Designing a New Architecture for Education
 
-_ A vision of education that combines individual development, mentorship, collaboration, and protection in a society undergoing transformation._
+_A vision of education that combines individual development, mentorship, collaboration, and protection in a society undergoing transformation._
 
 **Abstract:** I advocate a new architecture for education, organized around human development, that combines a solid common foundation with personalized pathways, progressive autonomy, and teachers acting as mentors. Artificial intelligence should expand the capacity to support each student, while projects, clubs, and collaborative networks strengthen learning, a sense of belonging, and protection. Rather than simply modernizing tools or preparing students for the labor market, we need to rethink the educational structure to develop people capable of thinking critically, learning continuously, and assuming responsibility. The challenge is to reconcile common objectives with different learning paths, ensuring that everyone has the conditions needed to develop their abilities and contribute to society.
 
