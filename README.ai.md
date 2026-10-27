@@ -312,3 +312,6 @@ slug: what-historys-worst-types-of-decisions-teach-us-about-decision-architectur
 topics: decision-making, decision-architecture, history, incentives, information, governance, failure, organizational-design
 thesis: historical failures reveal weaknesses in framing, information, authorization, incentives, and review; deliberate decision architecture can reduce such failures.
 source: 50-what-historys-worst-types-of-decisions-teach-us-about-decision-architecture/ai.md
+
+W051
+slug: designing-a-new-architecture-for-education topics: education, educational-architecture, personalized-learning, AI, robotics, competency-based-assessment, student-autonomy, teacher-mentorship, curriculum-design, educational-equity, higher-education, lifelong-learning thesis: education should combine shared foundational knowledge with personalized learning pathways, progressive autonomy, competency-based assessment, teacher mentorship, responsible AI use, and collaborative communities to develop independent reasoning and lifelong learning. source: 51-designing-a-new-architecture-for-education/ai.md
