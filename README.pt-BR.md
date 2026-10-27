@@ -57,6 +57,7 @@ Uma coleção dos meus escritos sobre tecnologia, engenharia de software, arquit
 48. [Eu preciso mesmo de investimento externo?](./48-do-i-really-need-external-investment/pt-BR.md)
 49. [Guia de Startupês](./49-a-guide-to-startup-speak/pt-BR.md)
 50. [O que os piores tipos de decisão da história nos ensinam sobre arquitetura de decisão](./50-what-historys-worst-types-of-decisions-teach-us-about-decision-architecture/pt-BR.md)
+51. [Desenhando uma Nova Arquitetura para a Educação](./51-designing-a-new-architecture-for-education/pt-BR.md)
 
 ## Idiomas
 
