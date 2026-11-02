@@ -1,8 +1,10 @@
 # Guida all'Architettura delle Decisioni
 
-Un approccio strutturato per comprendere i contesti, definire gli obiettivi, valutare rischi e conseguenze ed evolvere le decisioni in scenari diversi.
+_Un approccio strutturato per comprendere i contesti, definire gli obiettivi, valutare rischi e conseguenze ed evolvere le decisioni in scenari diversi._
 
-Sintesi: In questo libro propongo un approccio per comprendere e strutturare le decisioni indipendentemente dal dominio o dal metodo utilizzato. Parto dall'idea che, sebbene l'Architettura delle Soluzioni, il Project Management, l'Imprenditorialità e altre discipline abbiano pratiche proprie, condividano fondamenti che sostengono il processo decisionale: dominio, contesto iniziale, obiettivi, rischi e incertezze, conseguenze dirette e indirette ed evoluzione. Organizzando questi elementi e le loro relazioni, cerco di offrire una struttura di pensiero che aiuti a valutare le scelte, comprenderne gli impatti e adattare le decisioni nel tempo, senza imporre un metodo universale o una sequenza rigida. Più che insegnare a decidere, la proposta mira a rendere più chiara la struttura alla base delle decisioni e a offrire un riferimento che possa evolvere ed essere applicato a contesti diversi.
+**Sintesi**: In questo libro propongo un approccio per comprendere e strutturare le decisioni indipendentemente dal dominio o dal metodo utilizzato. Parto dall'idea che, sebbene l'Architettura delle Soluzioni, il Project Management, l'Imprenditorialità e altre discipline abbiano pratiche proprie, condividano fondamenti che sostengono il processo decisionale: dominio, contesto iniziale, obiettivi, rischi e incertezze, conseguenze dirette e indirette ed evoluzione. Organizzando questi elementi e le loro relazioni, cerco di offrire una struttura di pensiero che aiuti a valutare le scelte, comprenderne gli impatti e adattare le decisioni nel tempo, senza imporre un metodo universale o una sequenza rigida. Più che insegnare a decidere, la proposta mira a rendere più chiara la struttura alla base delle decisioni e a offrire un riferimento che possa evolvere ed essere applicato a contesti diversi.
+
+---
 
 Sto condividendo il mio primo libro digitale, “Guida all'Architettura delle Decisioni”. Il lavoro raccoglie una riflessione su come strutturiamo le decisioni e propone un approccio per comprendere gli elementi coinvolti in questo processo, stabilire relazioni tra loro e considerarne gli effetti nel tempo.
 
