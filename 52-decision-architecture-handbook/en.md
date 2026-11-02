@@ -1,8 +1,10 @@
 # Decision Architecture Handbook
 
-A structured approach to understanding contexts, establishing objectives, assessing risks and consequences, and evolving decisions across different scenarios.
+_A structured approach to understanding contexts, establishing objectives, assessing risks and consequences, and evolving decisions across different scenarios._
 
-Summary: In this book, I propose an approach to understanding and structuring decisions regardless of the domain or method used. I start from the idea that, although Solution Architecture, Project Management, Entrepreneurship, and other disciplines have their own practices, they share fundamental elements that underpin the decision-making process: domain, initial context, objectives, risks and uncertainties, direct and indirect consequences, and evolution. By organizing these elements and their relationships, I seek to provide a thinking framework that helps assess choices, understand their impacts, and adapt decisions over time, without imposing a universal method or rigid sequence. Rather than teaching people how to make decisions, the aim is to clarify the structure behind decisions and provide a reference that can evolve and be applied to different contexts.
+**Summary**: In this book, I propose an approach to understanding and structuring decisions regardless of the domain or method used. I start from the idea that, although Solution Architecture, Project Management, Entrepreneurship, and other disciplines have their own practices, they share fundamental elements that underpin the decision-making process: domain, initial context, objectives, risks and uncertainties, direct and indirect consequences, and evolution. By organizing these elements and their relationships, I seek to provide a thinking framework that helps assess choices, understand their impacts, and adapt decisions over time, without imposing a universal method or rigid sequence. Rather than teaching people how to make decisions, the aim is to clarify the structure behind decisions and provide a reference that can evolve and be applied to different contexts.
+
+---
 
 I am sharing my first digital book, “Decision Architecture Handbook”. The work brings together reflections on how we structure decisions and proposes an approach to understanding the elements involved in this process, establishing relationships between them, and considering their effects over time.
 
