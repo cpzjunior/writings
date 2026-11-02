@@ -315,3 +315,6 @@ source: 50-what-historys-worst-types-of-decisions-teach-us-about-decision-archit
 
 W051
 slug: designing-a-new-architecture-for-education topics: education, educational-architecture, personalized-learning, AI, robotics, competency-based-assessment, student-autonomy, teacher-mentorship, curriculum-design, educational-equity, higher-education, lifelong-learning thesis: education should combine shared foundational knowledge with personalized learning pathways, progressive autonomy, competency-based assessment, teacher mentorship, responsible AI use, and collaborative communities to develop independent reasoning and lifelong learning. source: 51-designing-a-new-architecture-for-education/ai.md
+
+W052 
+slug: decision-architecture-handbook topics: decision-architecture, decision-making, solution-architecture, project-management, systems-thinking, organizational-design, entrepreneurship, decision-frameworks, PMBOK, TOGAF, arc42, ADR, risk-management, uncertainty, objectives, consequences, governance, strategic-decisions thesis: effective decision-making benefits from understanding the structure of decisions across six interconnected dimensions — domain, initial context, objectives, risks and uncertainties, direct and indirect consequences, and evolution — before selecting methodologies or tools. source: 52-decision-architecture-handbook/ai.md
