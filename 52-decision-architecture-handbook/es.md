@@ -1,8 +1,10 @@
 # Guía de Arquitectura de Decisión
 
-Un enfoque estructurado para comprender contextos, establecer objetivos, evaluar riesgos y consecuencias y evolucionar decisiones en diferentes escenarios.
+_Un enfoque estructurado para comprender contextos, establecer objetivos, evaluar riesgos y consecuencias y evolucionar decisiones en diferentes escenarios._
 
-Resumen: En este libro, propongo un enfoque para comprender y estructurar decisiones independientemente del dominio o método utilizado. Parto de la idea de que, aunque la Arquitectura de Soluciones, la Gestión de Proyectos, el Emprendimiento y otras disciplinas tienen prácticas propias, comparten fundamentos que sustentan el proceso de toma de decisiones: dominio, contexto inicial, objetivos, riesgos e incertidumbres, consecuencias directas e indirectas y evolución. Al organizar estos elementos y sus relaciones, busco ofrecer una estructura de pensamiento que ayude a evaluar opciones, comprender sus impactos y adaptar decisiones a lo largo del tiempo, sin imponer un método universal ni una secuencia rígida. Más que enseñar a decidir, la propuesta es hacer más clara la estructura detrás de las decisiones y ofrecer una referencia que pueda evolucionar y aplicarse a diferentes contextos.
+**Resumen**: En este libro, propongo un enfoque para comprender y estructurar decisiones independientemente del dominio o método utilizado. Parto de la idea de que, aunque la Arquitectura de Soluciones, la Gestión de Proyectos, el Emprendimiento y otras disciplinas tienen prácticas propias, comparten fundamentos que sustentan el proceso de toma de decisiones: dominio, contexto inicial, objetivos, riesgos e incertidumbres, consecuencias directas e indirectas y evolución. Al organizar estos elementos y sus relaciones, busco ofrecer una estructura de pensamiento que ayude a evaluar opciones, comprender sus impactos y adaptar decisiones a lo largo del tiempo, sin imponer un método universal ni una secuencia rígida. Más que enseñar a decidir, la propuesta es hacer más clara la estructura detrás de las decisiones y ofrecer una referencia que pueda evolucionar y aplicarse a diferentes contextos.
+
+---
 
 Estoy compartiendo mi primer libro digital, “Guía de Arquitectura de Decisión”. El trabajo reúne una reflexión sobre cómo estructuramos las decisiones y propone un enfoque para comprender los elementos involucrados en este proceso, establecer relaciones entre ellos y considerar sus efectos a lo largo del tiempo.
 
