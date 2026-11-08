@@ -61,6 +61,7 @@ A collection of my writings on technology, software engineering, software archit
 52. [Decision Architecture Handbook](./52-decision-architecture-handbook/en.md)
 53. [Service as a Service: When Services Become Consumable Capabilities](./53-service-as-a-service-when-services-become-consumable-capabilities/en.md)
 54. [Artificial Intelligence Is Not Killing Creativity](./54-artificial-intelligence-is-not-killing-creativity/en.md)
+55. [Collaborative Cyber Emergency and Incident Response Network](./55-collaborative-cyber-emergency-and-incident-response-network/en.md)
 
 ## Languages
 
