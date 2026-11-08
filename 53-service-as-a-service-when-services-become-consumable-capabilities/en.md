@@ -4,6 +4,8 @@ _If we have learned to consume infrastructure, platforms, and software as a serv
 
 **Summary**: In this article, I propose a reflection: if we have learned to consume infrastructure, platforms, and software as services, why do we still treat so many organizational capabilities as isolated deliverables? I believe we can change this perspective by thinking about services that can be continuously discovered, accessed, and consumed by different business areas, applications, and processes. This requires looking beyond project delivery and considering how these capabilities are made available, operated, governed, and evolved over time. This is not about creating yet another architectural model, but about questioning whether we are making the most of the value of what we have already built.
 
+---
+
 There has been a significant shift in how we consume technology. For a long time, to use a particular computing capability, a company had to purchase equipment, install systems, configure environments, and maintain all the infrastructure required to operate them. The evolution of service models changed this relationship. We began consuming infrastructure, platforms, and software without necessarily owning or managing the resources that support them. More than a technological change, this was a transformation in how we think about access, responsibility, and value.
 
 This evolution led me to a reflection: if we have learned to make infrastructure, platforms, and software available as services, why do we still struggle so much to think about the services our own organizations provide in the same way?
