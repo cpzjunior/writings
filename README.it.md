@@ -61,6 +61,7 @@ Una raccolta dei miei scritti su tecnologia, ingegneria del software, architettu
 52. [Guida all'Architettura delle Decisioni](./52-decision-architecture-handbook/it.md)
 53. [Service as a Service: quando i servizi diventano capacità fruibili](./53-service-as-a-service-when-services-become-consumable-capabilities/it.md)
 54. [L'intelligenza artificiale non sta uccidendo la creatività](./54-artificial-intelligence-is-not-killing-creativity/it.md)
+55. [Rete Collaborativa di Emergenza Informatica e Risposta agli Incidenti](./55-collaborative-cyber-emergency-and-incident-response-network/it.md)
 
 ## Lingue
 
