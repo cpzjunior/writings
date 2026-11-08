@@ -2,7 +2,7 @@
 
 _Stiamo confondendo la capacità di produrre con la capacità di creare._
 
-**Riassunto**: Non credo che l'intelligenza artificiale stia uccidendo la creatività. Penso che stiamo confondendo la capacità di produrre con quella di creare. L'IA riduce le barriere tecniche tra immaginare e realizzare, amplia le nostre possibilità e può persino portarci a idee che non avremmo raggiunto da soli. Questo non significa che sostituisca il bagaglio culturale, la sensibilità o il pensiero critico, ma che trasformi il modo in cui creiamo. Per me, il suo valore più grande sta nell'aiutarci a esplorare idee, mettere in discussione concetti e andare oltre i nostri limiti, senza rinunciare all'intenzione e al giudizio umano. Dopotutto, produrre di più non è mai stato sinonimo di creare meglio.
+**Sintesi**: Non credo che l'intelligenza artificiale stia uccidendo la creatività. Penso che stiamo confondendo la capacità di produrre con quella di creare. L'IA riduce le barriere tecniche tra immaginare e realizzare, amplia le nostre possibilità e può persino portarci a idee che non avremmo raggiunto da soli. Questo non significa che sostituisca il bagaglio culturale, la sensibilità o il pensiero critico, ma che trasformi il modo in cui creiamo. Per me, il suo valore più grande sta nell'aiutarci a esplorare idee, mettere in discussione concetti e andare oltre i nostri limiti, senza rinunciare all'intenzione e al giudizio umano. Dopotutto, produrre di più non è mai stato sinonimo di creare meglio.
 
 ---
 
