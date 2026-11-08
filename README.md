@@ -60,6 +60,7 @@ A collection of my writings on technology, software engineering, software archit
 51. [Designing a New Architecture for Education](./51-designing-a-new-architecture-for-education/en.md)
 52. [Decision Architecture Handbook](./52-decision-architecture-handbook/en.md)
 53. [Service as a Service: When Services Become Consumable Capabilities](./53-service-as-a-service-when-services-become-consumable-capabilities/en.md)
+54. [Artificial Intelligence Is Not Killing Creativity](./54-artificial-intelligence-is-not-killing-creativity/en.md)
 
 ## Languages
 
