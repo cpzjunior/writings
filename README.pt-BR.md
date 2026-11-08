@@ -60,6 +60,7 @@ Uma coleção dos meus escritos sobre tecnologia, engenharia de software, arquit
 51. [Desenhando uma Nova Arquitetura para a Educação](./51-designing-a-new-architecture-for-education/pt-BR.md)
 52. [Guia de Arquitetura de Decisão](./52-decision-architecture-handbook/pt-BR.md)
 53. [Service as a Service: quando serviços se tornam capacidades consumíveis](./53-service-as-a-service-when-services-become-consumable-capabilities/pt-BR.md)
+54. [A inteligência artificial não está matando a criatividade](./54-artificial-intelligence-is-not-killing-creativity/pt-BR.md)
 
 ## Idiomas
 
