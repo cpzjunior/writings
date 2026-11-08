@@ -59,6 +59,7 @@ Una colección de mis escritos sobre tecnología, ingeniería de software, arqui
 50. [Lo que los peores tipos de decisión de la historia nos enseñan sobre arquitectura de decisiones](./50-what-historys-worst-types-of-decisions-teach-us-about-decision-architecture/es.md)
 51. [Diseñando una Nueva Arquitectura para la Educación](./51-designing-a-new-architecture-for-education/es.md)
 52. [Guía de Arquitectura de Decisión](./52-decision-architecture-handbook/es.md)
+53. [Service as a Service: cuando los servicios se convierten en capacidades consumibles](./53-service-as-a-service-when-services-become-consumable-capabilities/es.md)
 
 ## Idiomas
 
