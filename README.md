@@ -59,6 +59,7 @@ A collection of my writings on technology, software engineering, software archit
 50. [What History’s Worst Types of Decisions Teach Us About Decision Architecture](./50-what-historys-worst-types-of-decisions-teach-us-about-decision-architecture/en.md)
 51. [Designing a New Architecture for Education](./51-designing-a-new-architecture-for-education/en.md)
 52. [Decision Architecture Handbook](./52-decision-architecture-handbook/en.md)
+53. [Service as a Service: When Services Become Consumable Capabilities](./53-service-as-a-service-when-services-become-consumable-capabilities/en.md)
 
 ## Languages
 
