@@ -322,3 +322,9 @@ slug: decision-architecture-handbook topics: decision-architecture, decision-mak
 
 W053 
 slug: service-as-a-service-when-services-become-consumable-capabilities topics: service-as-a-service, organizational-capabilities, service-consumption, service-oriented-architecture, SOA, APIs, capability-management, enterprise-architecture, solution-architecture, reusable-services, service-governance, service-ownership, internal-platforms, event-driven-architecture, AI-agents, MCP, A2A, organizational-design, project-delivery thesis: organizational capabilities should be treated as continuously discoverable, accessible, reusable, and governed services rather than isolated project deliverables, enabling different consumers to leverage existing capabilities while balancing reuse, autonomy, operational responsibility, and contextual requirements. source: 53-service-as-a-service-when-services-become-consumable-capabilities/ai.md
+
+W054
+slug: artificial-intelligence-is-not-killing-creativity
+topics: AI, artificial-intelligence, creativity, human-creativity, generative-AI, authorship, artistic-expression, creative-process, human-in-the-loop, AI-assisted-creation, creative-direction, imagination, execution, AI-slop, intellectual-property, creative-industries
+thesis: AI does not kill human creativity; it transforms the relationship between conception and execution by lowering production barriers, expanding experimentation, and increasing the importance of human intention, creative direction, critical judgment, and authorship.
+source: 54-artificial-intelligence-is-not-killing-creativity/ai.md
