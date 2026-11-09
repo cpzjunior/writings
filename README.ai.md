@@ -331,3 +331,9 @@ source: 54-artificial-intelligence-is-not-killing-creativity/ai.md
 
 W055
 slug: collaborative-cyber-emergency-and-incident-response-network topics: cybersecurity, cyber-resilience, incident-response, cyber-emergency, security-operations, threat-intelligence, information-sharing, supply-chain-security, third-party-risk, operational-resilience, collaborative-security, federated-architecture, incident-notification, financial-sector, cybersecurity-governance, CERT thesis: cyber resilience across interconnected ecosystems requires shared emergency communication infrastructure that can identify potentially affected organizations and distribute authenticated incident notifications within seconds, while preserving decentralized response decisions and institutional autonomy. source: 55-collaborative-cyber-emergency-and-incident-response-network/ai.md
+
+W056
+slug: intelligent-recruitment-connecting-talent-and-opportunities
+topics: intelligent-recruitment, AI, artificial-intelligence, talent-acquisition, human-resources, HR-tech, talent-management, recruitment-automation, candidate-matching, skills-based-recruitment, talent-pools, professional-profiles, assessments, human-in-the-loop, explainable-AI, algorithmic-bias, LGPD, data-protection, workforce-planning, organizational-knowledge
+thesis: intelligent recruitment should evolve from isolated hiring processes into a continuous talent relationship operation, using AI to structure professional knowledge, identify relevant opportunities, support candidate matching, preserve assessment context, and improve recruitment decisions while maintaining human oversight, lifecycle governance, explainability, and data protection.
+source: 56-intelligent-recruitment-connecting-talent-and-opportunities/ai.md
