@@ -62,6 +62,7 @@ Una colección de mis escritos sobre tecnología, ingeniería de software, arqui
 53. [Service as a Service: cuando los servicios se convierten en capacidades consumibles](./53-service-as-a-service-when-services-become-consumable-capabilities/es.md)
 54. [La inteligencia artificial no está matando la creatividad](./54-artificial-intelligence-is-not-killing-creativity/es.md)
 55. [Red Colaborativa de Emergencia Cibernética y Respuesta a Incidentes](./55-collaborative-cyber-emergency-and-incident-response-network/es.md)
+56. [Reclutamiento inteligente: conectando talentos y oportunidades](./56-intelligent-recruitment-connecting-talent-and-opportunities/es.md)
 
 ## Idiomas
 
