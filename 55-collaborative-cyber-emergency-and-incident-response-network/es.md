@@ -154,7 +154,7 @@ Quizás la próxima evolución importante de la ciberseguridad no consista solam
 
 Si la amenaza es compartida, quizás la capacidad de respuesta también deba serlo.
 
-**Conoce la propuesta:** [Red Colaborativa de Emergencia Cibernética y Respuesta a Incidentes, documento inicial en GitHub](https://github.com/cpzjunior/project-ideas/blob/main/services/collaborative-cyber-emergency-and-incident-response-network/pt-BR.md).
+**Conoce la propuesta:** [Red Colaborativa de Emergencia Cibernética y Respuesta a Incidentes, documento inicial en GitHub](https://github.com/cpzjunior/project-ideas/blob/main/services/collaborative-cyber-emergency-and-incident-response-network/README.pt-BR.md).
 
 Me gustaría escuchar especialmente a profesionales de seguridad de la información, arquitectura de soluciones, infraestructura, gestión de riesgos, instituciones financieras, reguladores y proveedores de tecnología. Las críticas, los cuestionamientos y las propuestas alternativas son bienvenidos.
 
