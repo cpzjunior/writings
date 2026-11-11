@@ -9,7 +9,7 @@ Each entry provides:
 * `thesis`: the article's central idea in compressed form.
 * `source`: path to the article's AI representation.
 
-Open the article `ai.md` for deeper semantic context.
+Open the article `README.ai.md` for deeper semantic context.
 
 ---
 
