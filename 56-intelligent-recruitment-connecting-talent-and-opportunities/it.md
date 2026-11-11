@@ -14,7 +14,7 @@ Questa situazione non è necessariamente una conseguenza di un errore nella gest
 
 È partendo da questa constatazione che ho iniziato a strutturare una proposta di Piattaforma Intelligente di Reclutamento e Gestione Continua dei Talenti. Il progetto parte da una premessa: il reclutamento dovrebbe essere organizzato intorno a una relazione continua tra aziende e professionisti, nella quale opportunità, competenze, esperienze e valutazioni possano essere collegate nel tempo.
 
-La proposta è documentata su GitHub, dove ho organizzato la visione funzionale e i principali concetti della soluzione: [Piattaforma Intelligente di Reclutamento e Gestione Continua dei Talenti](https://github.com/cpzjunior/project-ideas/blob/main/services/intelligent-recruitment-and-continuous-talent-management-platform/pt-BR.md?utm_source=chatgpt.com).
+La proposta è documentata su GitHub, dove ho organizzato la visione funzionale e i principali concetti della soluzione: [Piattaforma Intelligente di Reclutamento e Gestione Continua dei Talenti](https://github.com/cpzjunior/project-ideas/blob/main/services/intelligent-recruitment-and-continuous-talent-management-platform/README.pt-BR.md).
 
 Più che automatizzare le fasi esistenti, l’intento è ripensare la struttura operativa del reclutamento ed esplorare come l’intelligenza artificiale possa contribuire a una relazione più efficiente e coerente tra organizzazioni e talenti.
 
