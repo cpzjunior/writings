@@ -337,3 +337,9 @@ slug: intelligent-recruitment-connecting-talent-and-opportunities
 topics: intelligent-recruitment, AI, artificial-intelligence, talent-acquisition, human-resources, HR-tech, talent-management, recruitment-automation, candidate-matching, skills-based-recruitment, talent-pools, professional-profiles, assessments, human-in-the-loop, explainable-AI, algorithmic-bias, LGPD, data-protection, workforce-planning, organizational-knowledge
 thesis: intelligent recruitment should evolve from isolated hiring processes into a continuous talent relationship operation, using AI to structure professional knowledge, identify relevant opportunities, support candidate matching, preserve assessment context, and improve recruitment decisions while maintaining human oversight, lifecycle governance, explainability, and data protection.
 source: 56-intelligent-recruitment-connecting-talent-and-opportunities/ai.md
+
+W057
+slug: beyond-generalist-agents-an-ai-micro-agent-architecture
+topics: AI, artificial-intelligence, AI-agents, multi-agent-systems, agent-architecture, micro-agents, cognitive-decomposition, agent-specialization, context-management, context-engineering, agent-orchestration, Agent-Factory, Agent-Blueprints, Solution-Architect, recursive-specialization, shared-memory, agent-governance, software-architecture, distributed-systems, RAG, autonomy, task-parallelization, coordination, token-efficiency
+thesis: scalable and coherent AI agent systems should distribute cognitive responsibilities among specialized agents through dynamic team composition, selective context, reusable agent specifications, explicit contracts, shared memory, and distributed autonomy, rather than concentrating capabilities in a single generalist agent.
+source: 57-beyond-generalist-agents-an-ai-micro-agent-architecture/ai.md
