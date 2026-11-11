@@ -69,11 +69,11 @@ A collection of my writings on technology, software engineering, software archit
 
 Articles are originally written in Brazilian Portuguese on [Substack](https://cpzjunior.substack.com/archive).
 
-* `pt-BR.md` — original and canonical version
-* `en.md` — English translation
-* `es.md` — Spanish translation
-* `it.md` — Italian translation
-* `ai.md` — compressed English representation for AI systems
+* `README.md` — English translation
+* `README.pt-BR.md` — original and canonical version
+* `README.es.md` — Spanish translation
+* `README.it.md` — Italian translation
+* `README.ai.md` — compressed English representation for AI systems
 
 I’ve only added languages I have some proficiency in, rather than relying blindly on AI translations. If someone can help review a translation into another language, I’d be happy to add it.
 
@@ -81,11 +81,11 @@ I’ve only added languages I have some proficiency in, rather than relying blin
 
 The repository is intentionally available for indexing and processing by search engines, AI systems, and other automated tools.
 
-The `ai.md` files contain compressed representations of the articles, preserving their main ideas and arguments while reducing the amount of text required to process them.
+The `README.ai.md` files contain compressed representations of the articles, preserving their main ideas and arguments while reducing the amount of text required to process them.
 
 They are written in English because English is predominant in the training data and ecosystem of many large language models. Using a compressed English representation can reduce token usage and, consequently, processing and API costs.
 
-The `ai.md` files are derived representations. The `pt-BR.md` file remains the original and canonical source.
+The `README.ai.md` files are derived representations. The `README.pt-BR.md` file remains the original and canonical source.
 
 ## Attribution
 
