@@ -154,7 +154,7 @@ Perhaps the next major evolution in cybersecurity will not be limited to develop
 
 If the threat is shared, perhaps the response capability needs to be shared as well.
 
-**Explore the proposal:** [Collaborative Cyber Emergency and Incident Response Network, initial document on GitHub](https://github.com/cpzjunior/project-ideas/blob/main/services/collaborative-cyber-emergency-and-incident-response-network/pt-BR.md).
+**Explore the proposal:** [Collaborative Cyber Emergency and Incident Response Network, initial document on GitHub](https://github.com/cpzjunior/project-ideas/blob/main/services/collaborative-cyber-emergency-and-incident-response-network/README.pt-BR.md).
 
 I would particularly like to hear from professionals in information security, solution architecture, infrastructure, risk management, financial institutions, regulatory bodies, and technology vendors. Criticism, questions, and alternative proposals are welcome.
 
