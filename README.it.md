@@ -69,11 +69,11 @@ Una raccolta dei miei scritti su tecnologia, ingegneria del software, architettu
 
 Gli articoli sono originariamente scritti in portoghese brasiliano su [Substack](https://cpzjunior.substack.com/archive).
 
-* `pt-BR.md` — versione originale e canonica
-* `en.md` — traduzione in inglese
-* `es.md` — traduzione in spagnolo
-* `it.md` — traduzione in italiano
-* `ai.md` — rappresentazione compatta in inglese per i sistemi di IA
+* `README.md` — traduzione in inglese
+* `README.pt-BR.md` — versione originale e canonica
+* `README.es.md` — traduzione in spagnolo
+* `README.it.md` — traduzione in italiano
+* `README.ai.md` — rappresentazione compatta in inglese per i sistemi di IA
 
 Ho aggiunto solo le lingue che conosco almeno un po’, invece di affidarmi ciecamente alle traduzioni generate dall’IA. Se qualcuno può aiutare a revisionare una traduzione in un’altra lingua, sarò felice di aggiungerla.
 
@@ -81,11 +81,11 @@ Ho aggiunto solo le lingue che conosco almeno un po’, invece di affidarmi ciec
 
 Il repository è intenzionalmente disponibile per l'indicizzazione e l'elaborazione da parte dei motori di ricerca, dei sistemi di IA e di altri strumenti automatizzati.
 
-I file `ai.md` contengono rappresentazioni compatte degli articoli, preservandone le idee e gli argomenti principali, riducendo al contempo la quantità di testo necessaria per elaborarli.
+I file `README.ai.md` contengono rappresentazioni compatte degli articoli, preservandone le idee e gli argomenti principali, riducendo al contempo la quantità di testo necessaria per elaborarli.
 
 Sono scritti in inglese perché l'inglese è predominante nei dati di addestramento e nell'ecosistema di molti grandi modelli linguistici. Utilizzare una rappresentazione compatta in inglese può ridurre l'uso di token e, di conseguenza, i costi di elaborazione e delle API.
 
-I file `ai.md` sono rappresentazioni derivate. Il file `pt-BR.md` rimane la fonte originale e canonica.
+I file `README.ai.md` sono rappresentazioni derivate. Il file `README.pt-BR.md` rimane la fonte originale e canonica.
 
 ## Attribuzione
 
