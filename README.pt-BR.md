@@ -63,6 +63,7 @@ Uma coleção dos meus escritos sobre tecnologia, engenharia de software, arquit
 54. [A inteligência artificial não está matando a criatividade](./54-artificial-intelligence-is-not-killing-creativity/pt-BR.md)
 55. [Rede Colaborativa de Emergência Cibernética e Resposta a Incidentes](./55-collaborative-cyber-emergency-and-incident-response-network/pt-BR.md)
 56. [Recrutamento inteligente: conectando talentos e oportunidades](./56-intelligent-recruitment-connecting-talent-and-opportunities/pt-BR.md)
+57. [Além dos Agentes Generalistas: Uma Arquitetura de Micro-Agentes de IA](./57-beyond-generalist-agents-an-ai-micro-agent-architecture/pt-BR.md)
 
 ## Idiomas
 
