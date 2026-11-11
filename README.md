@@ -69,8 +69,8 @@ A collection of my writings on technology, software engineering, software archit
 
 Articles are originally written in Brazilian Portuguese on [Substack](https://cpzjunior.substack.com/archive).
 
-* `README.md` — English translation
 * `README.pt-BR.md` — original and canonical version
+* `README.md` — English translation
 * `README.es.md` — Spanish translation
 * `README.it.md` — Italian translation
 * `README.ai.md` — compressed English representation for AI systems
