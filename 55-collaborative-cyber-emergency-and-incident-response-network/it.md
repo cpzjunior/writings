@@ -154,7 +154,7 @@ Forse la prossima importante evoluzione della sicurezza informatica non consiste
 
 Se la minaccia è condivisa, forse anche la capacità di risposta deve esserlo.
 
-**Scopri la proposta:** [Rete Collaborativa di Emergenza Informatica e Risposta agli Incidenti, documento iniziale su GitHub](https://github.com/cpzjunior/project-ideas/blob/main/services/collaborative-cyber-emergency-and-incident-response-network/pt-BR.md).
+**Scopri la proposta:** [Rete Collaborativa di Emergenza Informatica e Risposta agli Incidenti, documento iniziale su GitHub](https://github.com/cpzjunior/project-ideas/blob/main/services/collaborative-cyber-emergency-and-incident-response-network/README.pt-BR.md).
 
 Mi piacerebbe ascoltare in particolare i professionisti della sicurezza informatica, dell'architettura delle soluzioni, delle infrastrutture e della gestione dei rischi, nonché le istituzioni finanziarie, le autorità di regolamentazione e i fornitori di tecnologia. Critiche, domande e proposte alternative sono benvenute.
 
