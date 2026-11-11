@@ -63,6 +63,7 @@ A collection of my writings on technology, software engineering, software archit
 54. [Artificial Intelligence Is Not Killing Creativity](./54-artificial-intelligence-is-not-killing-creativity/en.md)
 55. [Collaborative Cyber Emergency and Incident Response Network](./55-collaborative-cyber-emergency-and-incident-response-network/en.md)
 56. [Intelligent Recruitment: Connecting Talent and Opportunities](./56-intelligent-recruitment-connecting-talent-and-opportunities/en.md)
+57. [Beyond Generalist Agents: An AI Micro-Agent Architecture](./57-beyond-generalist-agents-an-ai-micro-agent-architecture/en.md)
 
 ## Languages
 
