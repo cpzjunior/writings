@@ -14,7 +14,7 @@ This situation is not necessarily the result of a failure in how recruitment is 
 
 It was based on this observation that I began developing a proposal for an Intelligent Recruitment and Continuous Talent Management Platform. The project starts from a premise: recruitment should be organized around an ongoing relationship between companies and professionals, in which opportunities, skills, experience, and assessments can be connected over time.
 
-The proposal is documented on GitHub, where I have organized the functional vision and the main concepts behind the solution: [Intelligent Recruitment and Continuous Talent Management Platform](https://github.com/cpzjunior/project-ideas/blob/main/services/intelligent-recruitment-and-continuous-talent-management-platform/pt-BR.md).
+The proposal is documented on GitHub, where I have organized the functional vision and the main concepts behind the solution: [Intelligent Recruitment and Continuous Talent Management Platform](https://github.com/cpzjunior/project-ideas/blob/main/services/intelligent-recruitment-and-continuous-talent-management-platform/README.pt-BR.md).
 
 Rather than simply automating existing stages, the intention is to rethink the operational structure of recruitment and explore how artificial intelligence can contribute to a more efficient and consistent relationship between organizations and talent.
 
