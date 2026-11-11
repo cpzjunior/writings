@@ -69,11 +69,11 @@ Una colección de mis escritos sobre tecnología, ingeniería de software, arqui
 
 Los artículos se escriben originalmente en portugués brasileño en [Substack](https://cpzjunior.substack.com/archive).
 
-* `pt-BR.md` — versión original y canónica
-* `en.md` — traducción al inglés
-* `es.md` — traducción al español
-* `it.md` — traducción al italiano
-* `ai.md` — representación comprimida en inglés para sistemas de IA
+* `README.md` — traducción al inglés
+* `README.pt-BR.md` — versión original y canónica
+* `README.es.md` — traducción al español
+* `README.it.md` — traducción al italiano
+* `README.ai.md` — representación comprimida en inglés para sistemas de IA
 
 Solo he añadido idiomas en los que tengo cierto dominio, en lugar de confiar ciegamente en las traducciones generadas por IA. Si alguien puede ayudar a revisar una traducción a otro idioma, estaré encantado de añadirla.
 
@@ -81,11 +81,11 @@ Solo he añadido idiomas en los que tengo cierto dominio, en lugar de confiar ci
 
 El repositorio está disponible intencionalmente para su indexación y procesamiento por motores de búsqueda, sistemas de IA y otras herramientas automatizadas.
 
-Los archivos `ai.md` contienen representaciones comprimidas de los artículos, preservando sus ideas y argumentos principales mientras reducen la cantidad de texto necesaria para procesarlos.
+Los archivos `README.ai.md` contienen representaciones comprimidas de los artículos, preservando sus ideas y argumentos principales mientras reducen la cantidad de texto necesaria para procesarlos.
 
 Están escritos en inglés porque el inglés predomina en los datos de entrenamiento y el ecosistema de muchos modelos de lenguaje de gran escala. El uso de una representación comprimida en inglés puede reducir el uso de tokens y, en consecuencia, los costos de procesamiento y de API.
 
-Los archivos `ai.md` son representaciones derivadas. El archivo `pt-BR.md` sigue siendo la fuente original y canónica.
+Los archivos `README.ai.md` son representaciones derivadas. El archivo `README.pt-BR.md` sigue siendo la fuente original y canónica.
 
 ## Atribución
 
