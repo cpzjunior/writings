@@ -14,7 +14,7 @@ Esta situación no es necesariamente consecuencia de un fallo en la conducción 
 
 Fue a partir de esta constatación que comencé a estructurar una propuesta de Plataforma Inteligente de Reclutamiento y Gestión Continua de Talentos. El proyecto parte de una premisa: el reclutamiento debería organizarse en torno a una relación continua entre empresas y profesionales, en la que oportunidades, competencias, experiencias y evaluaciones puedan conectarse a lo largo del tiempo.
 
-La propuesta está documentada en GitHub, donde organicé la visión funcional y los principales conceptos de la solución: [Plataforma Inteligente de Reclutamiento y Gestión Continua de Talentos](https://github.com/cpzjunior/project-ideas/blob/main/services/intelligent-recruitment-and-continuous-talent-management-platform/pt-BR.md).
+La propuesta está documentada en GitHub, donde organicé la visión funcional y los principales conceptos de la solución: [Plataforma Inteligente de Reclutamiento y Gestión Continua de Talentos](https://github.com/cpzjunior/project-ideas/blob/main/services/intelligent-recruitment-and-continuous-talent-management-platform/README.pt-BR.md).
 
 Más que automatizar etapas existentes, la intención es replantear la estructura operativa del reclutamiento y explorar cómo la inteligencia artificial puede contribuir a una relación más eficiente y consistente entre organizaciones y talentos.
 
