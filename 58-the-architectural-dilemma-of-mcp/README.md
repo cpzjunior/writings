@@ -1,6 +1,6 @@
 # The Architectural Dilemma of MCP
 
-How to distribute capabilities to manage the cognitive complexity of AI agents.
+_How to distribute capabilities to manage the cognitive complexity of AI agents._
 
 **Summary**: I argue that MCP's main architectural dilemma is not whether to centralize or distribute servers, but how to manage the way their capabilities are discovered, selected, and made available to agents. In enterprise environments, exposing all tools at once increases cognitive complexity and makes contextual selection more difficult. The solution involves separating the global capability catalog, progressive discovery, and execution, combining centralized governance with domain autonomy and intelligent routing. This allows agents to access only what they need, when they need it, without taking on the complexity of managing the entire infrastructure. The challenge is to transform the diversity of enterprise resources into a selective, secure, and efficient ecosystem.
 
