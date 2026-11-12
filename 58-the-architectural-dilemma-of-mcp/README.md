@@ -2,7 +2,9 @@
 
 How to distribute capabilities to manage the cognitive complexity of AI agents.
 
-Summary: I argue that MCP's main architectural dilemma is not whether to centralize or distribute servers, but how to manage the way their capabilities are discovered, selected, and made available to agents. In enterprise environments, exposing all tools at once increases cognitive complexity and makes contextual selection more difficult. The solution involves separating the global capability catalog, progressive discovery, and execution, combining centralized governance with domain autonomy and intelligent routing. This allows agents to access only what they need, when they need it, without taking on the complexity of managing the entire infrastructure. The challenge is to transform the diversity of enterprise resources into a selective, secure, and efficient ecosystem.
+**Summary**: I argue that MCP's main architectural dilemma is not whether to centralize or distribute servers, but how to manage the way their capabilities are discovered, selected, and made available to agents. In enterprise environments, exposing all tools at once increases cognitive complexity and makes contextual selection more difficult. The solution involves separating the global capability catalog, progressive discovery, and execution, combining centralized governance with domain autonomy and intelligent routing. This allows agents to access only what they need, when they need it, without taking on the complexity of managing the entire infrastructure. The challenge is to transform the diversity of enterprise resources into a selective, secure, and efficient ecosystem.
+
+---
 
 In my last article, "[Beyond Generalist Agents: An AI Micro-Agent Architecture](https://cpzjunior.substack.com/p/alem-dos-agentes-generalistas-uma?utm_source=chatgpt.com)", I explored a question that I believe is becoming increasingly relevant as AI agents begin to occupy a more significant place in software architectures: should we continue concentrating responsibilities in generalist agents, or should we start thinking about a more specialized distribution of reasoning capabilities?
 
