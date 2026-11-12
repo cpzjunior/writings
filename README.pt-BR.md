@@ -64,6 +64,7 @@ Uma coleção dos meus escritos sobre tecnologia, engenharia de software, arquit
 55. [Rede Colaborativa de Emergência Cibernética e Resposta a Incidentes](./55-collaborative-cyber-emergency-and-incident-response-network/README.pt-BR.md)
 56. [Recrutamento inteligente: conectando talentos e oportunidades](./56-intelligent-recruitment-connecting-talent-and-opportunities/README.pt-BR.md)
 57. [Além dos Agentes Generalistas: Uma Arquitetura de Micro-Agentes de IA](./57-beyond-generalist-agents-an-ai-micro-agent-architecture/README.pt-BR.md)
+58. [O dilema arquitetural do MCP](./58-the-architectural-dilemma-of-mcp/README.pt-BR.md)
 
 ## Idiomas
 
