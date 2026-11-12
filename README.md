@@ -64,6 +64,7 @@ A collection of my writings on technology, software engineering, software archit
 55. [Collaborative Cyber Emergency and Incident Response Network](./55-collaborative-cyber-emergency-and-incident-response-network/README.md)
 56. [Intelligent Recruitment: Connecting Talent and Opportunities](./56-intelligent-recruitment-connecting-talent-and-opportunities/README.md)
 57. [Beyond Generalist Agents: An AI Micro-Agent Architecture](./57-beyond-generalist-agents-an-ai-micro-agent-architecture/README.md)
+58. [The Architectural Dilemma of MCP](./58-the-architectural-dilemma-of-mcp/README.md)
 
 ## Languages
 
