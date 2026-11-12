@@ -343,3 +343,9 @@ slug: beyond-generalist-agents-an-ai-micro-agent-architecture
 topics: AI, artificial-intelligence, AI-agents, multi-agent-systems, agent-architecture, micro-agents, cognitive-decomposition, agent-specialization, context-management, context-engineering, agent-orchestration, Agent-Factory, Agent-Blueprints, Solution-Architect, recursive-specialization, shared-memory, agent-governance, software-architecture, distributed-systems, RAG, autonomy, task-parallelization, coordination, token-efficiency
 thesis: scalable and coherent AI agent systems should distribute cognitive responsibilities among specialized agents through dynamic team composition, selective context, reusable agent specifications, explicit contracts, shared memory, and distributed autonomy, rather than concentrating capabilities in a single generalist agent.
 source: 57-beyond-generalist-agents-an-ai-micro-agent-architecture/README.ai.md
+
+W058
+slug: the-architectural-dilemma-of-mcp
+topics: MCP, Model-Context-Protocol, AI-agents, agentic-architecture, tool-discovery, progressive-tool-discovery, capability-catalog, MCP-registry, intelligent-routing, context-management, enterprise-architecture, distributed-systems, governance, tool-selection, cognitive-complexity, control-plane, execution-plane, authorization
+thesis: MCP's main architectural challenge is managing how capabilities are discovered, selected, authorized, and exposed to AI agents rather than simply deciding whether servers should be centralized or distributed. An effective enterprise architecture separates capability governance, progressive discovery, and execution, combining distributed domain autonomy with centralized cataloging, contextual selection, and intelligent routing.
+source: 58-the-architectural-dilemma-of-mcp/README.ai.md
