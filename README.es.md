@@ -65,6 +65,7 @@ Una colección de mis escritos sobre tecnología, ingeniería de software, arqui
 56. [Reclutamiento inteligente: conectando talentos y oportunidades](./56-intelligent-recruitment-connecting-talent-and-opportunities/README.es.md)
 57. [Más allá de los Agentes Generalistas: Una Arquitectura de Microagentes de IA](./57-beyond-generalist-agents-an-ai-micro-agent-architecture/README.es.md)
 58. [El dilema arquitectónico del MCP](./58-the-architectural-dilemma-of-mcp/README.es.md)
+59. [Project-Ideas: un catálogo de ideas para juegos, negocios y proyectos sin fines de lucro](./59-project-ideas-a-catalog-of-ideas-for-games-businesses-and-nonprofit-projects/README.es.md)
 
 ## Idiomas
 
