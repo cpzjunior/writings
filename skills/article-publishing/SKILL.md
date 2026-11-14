@@ -1,102 +1,60 @@
 ---
 name: article-publishing
-description: Publish one finalized article version at a time in the project's GitHub repository, following its directory, filename, and content conventions.
+description: Publish one finalized article version (a single language file) in the project's GitHub repository, identified by article number. Creates the article directory for a new canonical pt-BR article and reuses it for translations. Use when a finalized article or translation is ready to be committed. Do not use to translate other content, summarize, or register index entries.
 ---
 
 # Article Publishing
 
-Publish one finalized article version per execution in the project's GitHub repository.
+Publish exactly one finalized article version per execution. The canonical pt-BR version is published first and creates the article directory. Each translation is published later, separately, into that same directory.
 
-## Inputs
+## Input
 
-- `article`: Finalized article in Markdown.
-- `language`: Article language. Required.
-- `repository`: Repository context, if not already available.
-- `additional_instructions`: Optional publication requirements.
+- `article` (required): finalized Markdown.
+- `language` (required): `pt-BR`, `en`, `es`, `it`, or another code. Confirm the text is actually in that language. If not, stop and ask.
+- `article_number` (required): the number given by the user.
+- Optional additional instructions.
 
-The article must have an approved title and subtitle. If essential content or language information is missing, ask the user.
+If something essential is missing, ask.
 
 ## Workflow
 
-### 1. Inspect Repository
+### 1. Inspect
 
-- Identify the repository root and inspect its README and existing article directories.
-- Determine whether this is a new article or another language version of an existing article.
-- For a new article, determine the next sequential identifier and inspect the exact directory naming convention.
-- For an existing article, locate and reuse its directory.
-- Inspect existing language conventions and filename patterns.
+List the top-level article directories, find the one that starts with `<article_number>-`, and read recent commit messages. Identify the default branch. Do not read other articles' content. Do not assume conventions from memory when they can be inspected.
 
-Never assume conventions from memory when the repository can be inspected.
+### 2. Determine destination
 
-### 2. Determine Destination
+- No directory exists and `language` is pt-BR: this is a new canonical article. Use `translate-text` to translate the article's H1 title into English. Build the directory as `<article_number>-<slug>`. The slug is the English title in lowercase, words separated by single hyphens, other punctuation removed (apostrophes, commas, colons, question marks, quotes), digits kept. Example: "Games Don't Need a Netflix, They Need an AWS" becomes `games-dont-need-a-netflix-they-need-an-aws`. The directory does not exist beforehand: it is created by committing the file at `<directory>/README.pt-BR.md`. If the number is not the next sequential one, warn the user but do not block.
+- A directory exists and the target-language file does not: this is another language version. Reuse the directory. Verify it contains the canonical `README.pt-BR.md`.
+- Any other case stops with an explanation: a pt-BR file that already exists (never overwrite), a non-pt-BR version without a canonical, or an existing target file.
 
-For a new article, create a directory using:
-- The next available sequential identifier.
-- The English title.
-- Lowercase characters.
-- No punctuation, including hyphens, commas, or colons.
-- The exact numbering and separator convention used by the repository.
+### 3. Prepare file
 
-For an existing article, reuse its directory and identifier. Never create another directory for a translation.
+Filename by language: `README.pt-BR.md`, `README.md` (English), `README.es.md`, `README.it.md`, `README.<code>.md` for others. The content is the article exactly as supplied.
 
-### 3. Prepare File
+### 4. Validate (before writing)
 
-Use the following naming convention:
-
-- English: `README.md`
-- Brazilian Portuguese: `README.pt-BR.md`
-- Spanish: `README.es.md`
-- Italian: `README.it.md`
-- Other languages: `README.[language-code].md`, following the project's conventions.
-
-The English title determines the article directory regardless of the publication language.
-
-Preserve the article's title, subtitle, language, Markdown structure, and content.
-
-Process only the supplied language version. Do not request, retrieve, generate, or retain other translations as part of this execution.
-
-Do not generate summaries or modify existing language versions.
-
-### 4. Validate
-
-Verify:
-- Correct article directory and identifier.
-- Correct filename and language code.
-- Presence of title and subtitle.
-- Markdown integrity.
-- Absence of unintended overwrites or unrelated changes.
+- The destination path is correct and does not already exist. For a new article, re-check the directory list immediately before writing.
+- The filename matches the language.
+- Present: title (H1), subtitle, summary paragraph, `---` separator.
+- Absent: `{{RESUMO}}`, any "Notas para o autor" or "Notes for the author" block, and other placeholders.
+- English version only: the slug of its H1 equals the slug of the directory. If it differs, stop and report both titles.
+- Translations: structural parity with the canonical version (same number of headings, paragraphs, and links). Read the canonical only for this check.
+- No unrelated changes in the commit.
 
 ### 5. Publish
 
-- If repository write access is available and the user has authorized publication, create the file in the repository.
-- Preserve existing content and avoid overwriting files.
-- If a commit or pull request is required by the available integration, follow the repository's established workflow.
-- Never claim publication without verifying that the change was successfully applied.
-
-If write access or authorization is unavailable, prepare the file and report its exact destination for manual creation.
+- Ask the user to authorize, showing the full destination path (for a new article, this includes the directory name derived from the English title).
+- Commit only this file, directly to the default branch, unless the repository requires pull requests. Use a short message in the style of recent history.
+- Verify by reading the committed file from the default branch and comparing it with the prepared content. Report success only after this.
+- Without write access or authorization, prepare the file and report its exact path and content.
 
 ## Constraints
 
-- Publish exactly one article version per execution.
-- Never batch multiple languages or articles.
-- Reuse the existing directory for translations.
-- Do not generate translations, summaries, or index entries.
-- Do not modify unrelated articles or previously published versions.
-- Treat the repository's existing conventions as the source of truth.
-- Minimize retained context: process only the current article version and essential repository metadata.
-
-## Style Reference
-
-Use the following published article as a reference for the repository's editorial conventions and article presentation:
-
-https://github.com/cpzjunior/writings/blob/main/52-decision-architecture-handbook/README.pt-BR.md
-
-Use it as a reference, not as a template. Follow the actual repository conventions when they differ.
+- One version per execution. Never batch languages or articles.
+- Do not translate anything other than the title (new article only), and do not summarize, edit content, or touch indexes, other files, or previously published versions.
+- Process only the supplied version and essential repository metadata.
 
 ## Output
 
-After successful publication, report the article directory, published filename, language, and commit or pull request reference when available.
-
-If publication was not possible, provide the exact destination path and the prepared content or its preparation status.
-
-Clearly distinguish prepared files from successfully published files.
+Report the directory, file path, language, commit reference, and verification result. For a new article, also report the English title used, so the English version can reuse it. Clearly distinguish prepared files from published files.
