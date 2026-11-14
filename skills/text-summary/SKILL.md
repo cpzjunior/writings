@@ -20,11 +20,21 @@ If the source text is missing, request it.
 - Preserve the central thesis, essential argumentative progression, and conclusion.
 - Compress reasoning without weakening its substance.
 - Prioritize clarity, natural rhythm, direct sentences, and authorial voice.
+- Establish rapport through a natural, personal presentation of the subject, without fabricating experiences or emotions.
+- Preserve the balance between personal reflection and conceptual argumentation.
 - Remove examples, background context, repetition, qualifications, and secondary details.
 - Select only what is necessary to communicate the argument and its relevance.
 - Do not invent information, introduce interpretations, or change the author's position.
 - Avoid academic, bureaucratic, generic, or unnecessarily elaborate language.
 - Do not attempt to explain every aspect of the article.
+
+## Style Reference
+
+Use the following article as a reference for the author's voice, particularly its first-person perspective, personal connection with the subject, and balance between reflection and argumentation:
+
+https://github.com/cpzjunior/writings/blob/main/52-decision-architecture-handbook/README.pt-BR.md
+
+Treat it as a stylistic reference, not a structural template. Do not reproduce its wording or arguments.
 
 ## Output
 
