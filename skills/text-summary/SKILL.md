@@ -1,43 +1,39 @@
 ---
 name: text-summary
-description: Condense articles into concise, first-person presentations of their central thesis, preserving the author's argument, conclusion, and voice.
+description: Write the first-person Resumo of a finalized article in Brazilian Portuguese (pt-BR), stating the author's thesis, reasoning, and conclusion in a single paragraph of exactly five sentences. Use after the article is approved. Do not use for AI-oriented summaries, translations, or summaries of other texts.
 ---
 
 # Text Summary
 
-Condense the provided article into a concise, persuasive presentation of its central idea, written in the author's voice.
+Condense the finalized article into the author's own presentation of its central idea. The result is part of the canonical article, so it must be final and in Brazilian Portuguese (pt-BR).
 
-## Inputs
+## Input
 
-- `text`: Article or source text to summarize.
+- `article` (required): the finalized pt-BR article. If missing, ask.
 
-If the source text is missing, request it.
+Ignore the `{{RESUMO}}` placeholder or any existing Resumo. Summarize only the body.
 
-## Instructions
+## Write
 
-- Write a single paragraph of up to five lines.
-- Use first person, as if the author were presenting the idea directly to the reader.
-- Preserve the central thesis, essential argumentative progression, and conclusion.
-- Compress reasoning without weakening its substance.
-- Prioritize clarity, natural rhythm, direct sentences, and authorial voice.
-- Establish rapport through a natural, personal presentation of the subject, without fabricating experiences or emotions.
-- Preserve the balance between personal reflection and conceptual argumentation.
-- Remove examples, background context, repetition, qualifications, and secondary details.
-- Select only what is necessary to communicate the argument and its relevance.
-- Do not invent information, introduce interpretations, or change the author's position.
-- Avoid academic, bureaucratic, generic, or unnecessarily elaborate language.
-- Do not attempt to explain every aspect of the article.
+A single paragraph of exactly five sentences, in the first person, as if the author were presenting the idea to the reader. A sentence ends with a period; colons and semicolons do not end a sentence. Keep sentences short to moderate (roughly 15 to 25 words each).
 
-## Style Reference
+- Open with the author's position: the thesis, or the question it answers, stated directly (for example "Defendo que...", "Proponho...", "Acredito que...").
+- Use the middle sentences for the essential progression of the argument, and the last for the conclusion or implication.
+- Keep the qualifications that delimit the thesis (what it does not claim). Cut examples, background, repetition, and secondary points.
+- Mention a personal experience only if the article treats it as the origin of the thesis. Never add experiences, emotions, numbers, or conclusions that are not in the article.
+- Do not change the author's position or add interpretation.
+- Plain, direct language and natural rhythm. Avoid academic or bureaucratic wording and the patterns listed under "Avoid" in `article-writing`.
 
-Use the following article as a reference for the author's voice, particularly its first-person perspective, personal connection with the subject, and balance between reflection and argumentation:
+Calibration example, for length and density only. Do not reuse its wording or structure:
 
-https://github.com/cpzjunior/writings/blob/main/52-decision-architecture-handbook/README.pt-BR.md
+> Defendo que o principal dilema arquitetural do MCP não está em centralizar ou distribuir servidores, mas em administrar como suas capacidades são descobertas, selecionadas e disponibilizadas aos agentes. Em ambientes corporativos, disponibilizar todas as ferramentas de uma só vez aumenta a complexidade cognitiva e dificulta a seleção contextual. A solução passa por separar o catálogo global de capacidades, a descoberta progressiva e a execução, combinando governança centralizada com autonomia dos domínios e roteamento inteligente. Assim, os agentes acessam apenas o que precisam, quando precisam, sem assumir a complexidade de administrar toda a infraestrutura. O desafio é transformar a diversidade de recursos corporativos em um ecossistema seletivo, seguro e eficiente.
 
-Treat it as a stylistic reference, not a structural template. Do not reproduce its wording or arguments.
+## Check before returning
+
+- The paragraph has exactly five sentences.
+- Every claim traces to a passage in the article.
+- The thesis, its main limit, and the conclusion are present.
 
 ## Output
 
-Return only the final paragraph.
-
-Do not include a title, lists, Markdown formatting, bold text, or em dashes.
+Return only the paragraph, as plain text. No label, title, lists, bold, or em dashes. The orchestrating workflow adds the `Resumo` label and places it in the article.
