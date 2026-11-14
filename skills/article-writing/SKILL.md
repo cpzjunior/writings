@@ -1,71 +1,68 @@
 ---
 name: article-writing
-description: Transform ideas and discussions into cohesive, substantial articles, preserving the author's perspective, argumentation, and editorial voice.
+description: Write a publication-ready article in the author's voice from an explored idea or approved brief. Use when the user asks to turn a discussion, thesis, or brief into an article. Do not use for summaries, reviews, translations, or open-ended idea exploration.
 ---
 
 # Article Writing
 
-Write an article based on the ideas, arguments, and conclusions developed in the current conversation.
+Write the article the author would write, from the material the author has developed. Default language: Brazilian Portuguese, unless the user specifies another.
 
-## Inputs
+## Input
 
-- `context`: Discussion, ideas, arguments, and conclusions developed during the conversation.
-- `additional_instructions`: Optional editorial requirements, topic, or structural preferences.
+- Source: an article brief, or the conversation. Use only positions the author adopted. Ideas the assistant proposed and the author did not adopt, and positions the author rejected, are out of scope.
+- Optional: additional editorial instructions.
 
-Use the available conversation as the primary source. If essential context is missing, ask the user.
+If the thesis, the main argument chain, or another essential element is missing, ask before writing. Do not fill gaps with invention.
 
-## Authorial Voice
+## Voice
 
-Adopt the voice of a solutions architect with entrepreneurial experience in startups and formal education in project management.
+Write as the author: a solutions architect with startup experience and project-management education. This is background for judgment and vocabulary, not a source of episodes. Never invent experiences, employers, clients, numbers, quotes, or outcomes.
 
-Write with:
-- Conceptual rigor and intellectual depth.
-- Clarity, fluency, and natural language.
-- A mature, pragmatic, and reflective perspective.
-- Strong argumentation without unnecessary academic formalism.
+- First person, reflective and pragmatic, with explicit positioning ("I argue", "I believe") where the author holds a position.
+- Conceptual rigor in plain language. Argue; do not lecture. No academic apparatus.
+- To calibrate voice and rhythm, read the opening and a few paragraphs of 2 or 3 recent published articles on different topics, when available. Never reuse their wording, arguments, or structure.
 
-## Writing Instructions
+## Opening
 
-- Consolidate the discussion into a coherent, progressive argument.
-- Preserve the author's thesis, reasoning, perspectives, and conclusions.
-- Use first person naturally, maintaining the author's perspective throughout the article.
-- Begin with an intimate, first-person opening grounded in a genuine experience, observation, question, or motivation related to the subject.
-- Establish rapport by connecting the subject to the author's perspective before expanding into broader concepts and arguments.
-- Avoid fabricated experiences, artificial intimacy, generic hooks, and formulaic introductions.
-- Organize sections as successive layers of the argument, each introducing a meaningful development.
-- Ensure natural transitions between sections.
-- Prefer continuous prose over lists.
-- Use substantial, well-constructed paragraphs.
-- Start a new paragraph only when the underlying idea changes.
-- Eliminate fragmentation, verbosity, repetition, clichés, and unnecessary jargon.
-- Avoid generic expressions and patterns associated with AI-generated writing.
-- Do not introduce unsupported claims or arguments that were not established in the discussion.
-- Do not dilute relevant disagreements or counterarguments.
-- Do not use bold text or em dashes.
+Start from the author's own vantage point: a real episode, an observation, a question, or a motivation taken from the source, then move toward the thesis. Use an episode only if the author told it. If the source has none, open from the observation or question that led to the thesis. Avoid generic hooks, scene-setting clichés, and questions asked only to grab attention.
 
-## Structure
+## Argument and prose
 
-- Create a mandatory, original title that expresses the article's central idea.
-- Create a mandatory subtitle that complements the title by clarifying the article's scope, perspective, or central argument. Do not merely restate the title.
-- Place the subtitle immediately below the title.
-- Develop the opening from the author's personal perspective toward the article's central thesis.
-- Determine the remaining article structure from the argument itself.
-- Use meaningful section headings when appropriate. Avoid arbitrary sections, excessive subdivisions, and headings that merely restate the preceding paragraph.
+- One thesis, developed in layers. Each section adds a development; transitions carry the reasoning.
+- Substantial paragraphs of continuous prose. Start a new paragraph only when the idea changes. No lists.
+- Keep the counterarguments the author engaged with at full strength.
+- Make no claim beyond the source. State unverified factual claims as the author's belief, or flag them in the notes.
+- Cut repetition, filler, and jargon. Length follows the material (published articles run roughly 2,000 to 5,000 words). Never pad.
+- End when the argument is complete: no recap of what was just said, no moralizing closing line.
 
-## Scope Exclusion
+## Avoid
 
-Do not create, revise, summarize, or modify the `Resumo` section. Its content is generated separately by the `text-summary` Skill after the article is finalized.
+- "Not X, but Y" as a recurring device; use it sparingly.
+- Triplets and rhetorical questions answered immediately.
+- Signposting ("In this article I will...") and stock openers or closers ("Em um mundo cada vez mais...", "No fim das contas", "Em suma").
+- Empty intensifiers and stock words (crucial, fundamental, verdadeiramente, jornada, ecossistema used loosely).
+- Bold, em dashes, and emoji. Do not replace em dashes with excess colons or semicolons.
 
-## Style Reference
+## Format
 
-Use the following article as a reference for the author's editorial voice, particularly its personal opening, gradual transition into conceptual discussion, and balance between reflection and argumentation:
+Produce exactly:
 
-https://github.com/cpzjunior/writings/blob/main/52-decision-architecture-handbook/README.pt-BR.md
+    # Title
 
-Treat it as a stylistic reference, not a structural template. Do not reproduce its wording, arguments, or organization unless independently relevant to the current article.
+    _Subtitle_
+
+    {{RESUMO}}
+
+    ---
+
+    Body
+
+- Title: original, expresses the central idea, sentence case.
+- Subtitle: complements the title (scope, perspective, or central argument); never restates it.
+- `{{RESUMO}}` is a placeholder replaced later by the summary step. Never write or alter the summary.
+- The opening has no heading. Use H2 headings only when they advance the argument; avoid generic ones ("Introduction", "Conclusion") or ones that restate the paragraph. Zero headings is acceptable.
+- Link only to articles the author mentioned. Never invent URLs.
 
 ## Output
 
-Deliver the complete article in Markdown, ready for publication, excluding the `Resumo` section.
-
-Return only the article, without explanations about the writing process.
+Return the article. Only if needed, add after it a block headed `Notes for the author (not part of the article)` listing claims to verify and places where the source was ambiguous and you made a choice. Omit the block otherwise.
