@@ -28,6 +28,10 @@ Write with:
 
 - Consolidate the discussion into a coherent, progressive argument.
 - Preserve the author's thesis, reasoning, perspectives, and conclusions.
+- Use first person naturally, maintaining the author's perspective throughout the article.
+- Begin with an intimate, first-person opening grounded in a genuine experience, observation, question, or motivation related to the subject.
+- Establish rapport by connecting the subject to the author's perspective before expanding into broader concepts and arguments.
+- Avoid fabricated experiences, artificial intimacy, generic hooks, and formulaic introductions.
 - Organize sections as successive layers of the argument, each introducing a meaningful development.
 - Ensure natural transitions between sections.
 - Prefer continuous prose over lists.
@@ -44,11 +48,24 @@ Write with:
 - Create a mandatory, original title that expresses the article's central idea.
 - Create a mandatory subtitle that complements the title by clarifying the article's scope, perspective, or central argument. Do not merely restate the title.
 - Place the subtitle immediately below the title.
+- Develop the opening from the author's personal perspective toward the article's central thesis.
 - Determine the remaining article structure from the argument itself.
 - Use meaningful section headings when appropriate. Avoid arbitrary sections, excessive subdivisions, and headings that merely restate the preceding paragraph.
 
+## Scope Exclusion
+
+Do not create, revise, summarize, or modify the `Resumo` section. Its content is generated separately by the `text-summary` Skill after the article is finalized.
+
+## Style Reference
+
+Use the following article as a reference for the author's editorial voice, particularly its personal opening, gradual transition into conceptual discussion, and balance between reflection and argumentation:
+
+https://github.com/cpzjunior/writings/blob/main/52-decision-architecture-handbook/README.pt-BR.md
+
+Treat it as a stylistic reference, not a structural template. Do not reproduce its wording, arguments, or organization unless independently relevant to the current article.
+
 ## Output
 
-Deliver the complete article in Markdown, ready for publication.
+Deliver the complete article in Markdown, ready for publication, excluding the `Resumo` section.
 
 Return only the article, without explanations about the writing process.
