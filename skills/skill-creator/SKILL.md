@@ -1,74 +1,150 @@
 ---
 name: skill-creator
-description: Design, create, and refine reusable AI skills through an interactive process. Use when the user asks to create a new skill, edit or improve an existing one, or redesign a pipeline of skills. Do not use for one-off prompts that will not be reused.
+description: Design, create, review, and refine reusable AI skills. Use whenever the user asks to create a skill, improve an existing skill, review its design, or redesign a skill pipeline. Never use for one-off prompts, ordinary instructions, or tasks that do not require reusable AI capabilities.
 ---
 
 # Skill Creator
 
-Design skills that are precise, portable, and cheap in context. A skill is read by a model with no memory of this conversation, so every instruction must be understandable on its own.
+Design skills that are precise, portable, maintainable, and efficient in context.
+
+A skill is read by a model with no memory of the conversation that created it. Every instruction must therefore be understandable and actionable on its own.
 
 ## Workflow
 
 ### 1. Discover
 
-- Identify the purpose, who or what triggers the skill, what it receives, and what it must produce.
-- If the skill already exists, read it first. Read its sibling skills too, noting what upstream skills produce and downstream skills consume.
-- Infer details that are cheap to get wrong. Ask only when a wrong guess would materially change scope, autonomy, output format, or irreversible actions.
+- Identify the skill's purpose, intended users, activation conditions, inputs, and expected outputs.
+- If the skill already exists, read it before proposing changes.
+- Read sibling skills and identify upstream and downstream dependencies.
+- Identify existing skills that could be reused or extended instead of creating new ones.
+- Ask the user for missing information unless explicit permission to infer has been provided.
+- Ask only for information necessary to define the skill correctly.
 
 ### 2. Specify and Design
 
-Define in one pass:
+Define the skill's specification before writing it.
 
-- Scope, including what is explicitly out of scope.
-- Activation: when to use the skill and when not to.
-- Inputs, with the behavior when they are missing, and outputs, with their exact format.
-- Workflow, with decision points: when to infer, ask, or stop for approval.
-- Failure handling: incomplete input, unavailable tools or dependencies, conflicting rules.
-- Dependencies on other skills or external resources.
+**Responsibility and scope**
+- Define its primary responsibility.
+- Explicitly state what is out of scope.
+- Identify opportunities to reuse, extend, merge, or split existing skills.
 
-Challenge assumptions. Propose alternatives when the need is better served differently, such as merging with an existing skill or splitting one.
+**Activation**
+- Define when the skill must be used.
+- Define when the skill must never be used.
+- Write the description to support accurate activation, including phrases users are likely to use.
+
+**Interface**
+
+Define an explicit interface for every skill, following programming method conventions.
+
+- Inputs: named parameters in English, with their types, purposes, and required or optional status.
+- Outputs: named return values in English, with their types, purposes, and expected formats.
+- Context: information available from the execution environment that does not need to be supplied as an input parameter.
+- Dependencies: external tools, resources, and other skills required for execution.
+- Side effects: identify persistent or external changes produced by execution.
+
+For each input:
+- Use a clear, descriptive name in English.
+- Specify its data type.
+- Describe its purpose and constraints.
+- State whether it is required or optional.
+- Define its behavior when optional and omitted.
+
+For each output:
+- Use a clear, descriptive name in English.
+- Specify its data type.
+- Describe its purpose and expected format.
+
+**Missing information and inference**
+- Do not assume missing required information.
+- Ask the user for missing information unless explicit permission to infer has been provided.
+- When inference is authorized, infer only what is necessary and disclose material assumptions.
+- Never interpret permission to infer as permission to perform external actions or create side effects.
+
+**Workflow and decision-making**
+- Define execution steps and decision points.
+- Specify when to infer, ask the user, request approval, or stop.
+- Define failure handling for incomplete inputs, unavailable tools, missing dependencies, and conflicting instructions.
+
+**Dependencies and compatibility**
+- Define the expected inputs and outputs of dependent skills.
+- Resolve interface conflicts explicitly.
+- Avoid circular dependencies and unnecessary coupling.
+
+Challenge assumptions and propose alternatives when the requirement is better served by reusing, extending, merging, or splitting existing skills.
 
 ### 3. Write
 
-- Use concise, imperative instructions. Add a short reason to any rule that is non-obvious or easy to misapply.
-- Omit what the model already does by default. Keep only what changes its behavior.
-- Prefer one short example over a paragraph when format or tone is subtle.
-- State each rule once. If several skills share a rule or reference, keep it in one place and point to it.
-- Resolve conflicts between rules explicitly instead of leaving them to guesswork.
-- Keep SKILL.md under about 500 lines. Move bulky material to supporting files loaded only when needed.
-- Avoid absolute paths, hardcoded URLs, and repository-specific assumptions. If the skill exists for one repository, state that assumption once.
-- Write the description for activation: what the skill does, when to use it (including phrases a user would actually say), and when not to.
+- Use concise, imperative instructions.
+- Include a short reason for rules that are non-obvious or easy to misapply.
+- Omit instructions that do not meaningfully change the model's behavior.
+- Prefer one short example over lengthy explanations when format or behavior is subtle.
+- State each rule once.
+- Resolve conflicts between rules explicitly.
+- Keep SKILL.md concise, generally under 500 lines.
+- Move extensive documentation and reference material into supporting files loaded only when needed.
+- Avoid absolute paths, hardcoded URLs, and repository-specific assumptions.
+- If the skill is intended for a specific repository or environment, state that assumption explicitly.
 
 ### 4. Approve
 
-Present the complete proposed SKILL.md before touching any file. For edits to an existing skill, present a diff and a short summary of what changes and why. List design decisions the user may want to contest.
+Before modifying any file:
 
-Incorporate feedback and resubmit. Never create or modify files without explicit approval.
+- Present the complete proposed SKILL.md.
+- For existing skills, present a diff and a concise summary of proposed changes.
+- Explain relevant design decisions and assumptions.
+- Identify decisions the user may want to challenge.
+
+Incorporate feedback and resubmit the proposal when necessary.
+
+Never create or modify files without explicit user approval.
 
 ### 5. Implement
 
-1. Find the skills directory by inspecting the project. If it cannot be identified reliably, ask.
-2. Create or update `<skills-dir>/<skill-name>/SKILL.md`. The name uses lowercase letters, digits, and hyphens, matches its directory, and has at most 64 characters. The description has at most 1024 characters.
-3. Add supporting files only when essential.
-4. Never overwrite an existing skill without explicit authorization.
+1. Identify the skills directory by inspecting the project. If it cannot be identified reliably, ask the user.
+2. Create or update `<skills-dir>/<skill-name>/SKILL.md`.
+3. Use lowercase letters, digits, and hyphens for skill names. The name must match its directory and contain no more than 64 characters.
+4. Keep the description within 1024 characters.
+5. Add supporting files only when necessary.
+6. Never overwrite an existing skill without explicit authorization.
 
 ### 6. Validate
 
-Check the file against the specification, then test it:
+Prepare 2 or 3 realistic test scenarios covering:
 
-- Write 2 or 3 realistic prompts, including one with missing or ambiguous input and one that should not trigger the skill.
-- Run them, or simulate them as a fresh reader, and compare the results with the intended outputs and rules.
-- Check for contradictions, redundancy, unmet dependencies, and consistency with sibling skills.
+- Normal execution with valid inputs.
+- Missing or ambiguous required inputs.
+- A scenario that must not activate the skill.
 
-Fix issues and revalidate.
+For each scenario:
+- Present the input.
+- Describe the expected behavior.
+- Identify the expected output or decision.
+
+Present the scenarios to the user for validation.
+
+Do not claim successful validation until the user has reviewed and approved the proposed behavior.
+
+Incorporate feedback and revise the skill when necessary.
 
 ### 7. Report
 
-Report the skill's name and location, what was validated and how, and any known limitations.
+After implementation, report only:
+
+- Skill name and location.
+- What was created or modified.
+- Validation status.
+- Known limitations, if any.
+
+Keep the report concise.
 
 ## Principles
 
-- Infer what is cheap to get wrong. Ask about what is expensive.
-- One responsibility per skill, with a clear interface to its neighbors.
+- One responsibility per skill, with a clear interface to its dependencies.
+- Explicit inputs and outputs, following programming method conventions.
+- Ask rather than assume, unless inference is explicitly authorized.
 - Explicit approval before any file change.
+- Human validation of expected behavior.
 - Smallest effective instructions, not merely the shortest.
+- Prefer reuse over unnecessary duplication.
