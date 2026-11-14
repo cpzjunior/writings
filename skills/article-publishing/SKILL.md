@@ -1,16 +1,16 @@
 ---
 name: article-publishing
-description: Publish articles and their language versions in the project's GitHub repository, following its directory, filename, and content conventions.
+description: Publish one finalized article version at a time in the project's GitHub repository, following its directory, filename, and content conventions.
 ---
 
 # Article Publishing
 
-Publish finalized articles in the project's GitHub repository, following its existing structure and conventions.
+Publish one finalized article version per execution in the project's GitHub repository.
 
 ## Inputs
 
 - `article`: Finalized article in Markdown.
-- `translations`: Optional translated versions, each associated with its language.
+- `language`: Article language. Required.
 - `repository`: Repository context, if not already available.
 - `additional_instructions`: Optional publication requirements.
 
@@ -21,23 +21,25 @@ The article must have an approved title and subtitle. If essential content or la
 ### 1. Inspect Repository
 
 - Identify the repository root and inspect its README and existing article directories.
-- Determine the next sequential article identifier.
-- Identify the exact directory naming convention, including number placement and separators.
+- Determine whether this is a new article or another language version of an existing article.
+- For a new article, determine the next sequential identifier and inspect the exact directory naming convention.
+- For an existing article, locate and reuse its directory.
 - Inspect existing language conventions and filename patterns.
-- Never assume conventions from previous projects or memory when the repository can be inspected.
 
-### 2. Prepare Article Directory
+Never assume conventions from memory when the repository can be inspected.
 
-Create a directory using:
+### 2. Determine Destination
+
+For a new article, create a directory using:
 - The next available sequential identifier.
-- The article's English title.
+- The English title.
 - Lowercase characters.
 - No punctuation, including hyphens, commas, or colons.
-- The exact numbering and separator convention already used by the repository.
+- The exact numbering and separator convention used by the repository.
 
-Do not translate the title to generate the directory name. Use the English title consistently across all language versions.
+For an existing article, reuse its directory and identifier. Never create another directory for a translation.
 
-### 3. Prepare Files
+### 3. Prepare File
 
 Use the following naming convention:
 
@@ -45,44 +47,56 @@ Use the following naming convention:
 - Brazilian Portuguese: `README.pt-BR.md`
 - Spanish: `README.es.md`
 - Italian: `README.it.md`
-- Other languages: `README.[language-code].md`, following the project's existing conventions.
+- Other languages: `README.[language-code].md`, following the project's conventions.
 
-The English version is the default `README.md`. The original language must use its explicit language suffix when it is not English.
+The English title determines the article directory regardless of the publication language.
 
-Preserve each article's title, subtitle, language, Markdown structure, and content.
+Preserve the article's title, subtitle, language, Markdown structure, and content.
 
-Do not generate translations or summaries. Use only supplied and finalized content.
+Process only the supplied language version. Do not request, retrieve, generate, or retain other translations as part of this execution.
+
+Do not generate summaries or modify existing language versions.
 
 ### 4. Validate
 
-Before publication, verify:
-
-- Directory name and sequential identifier.
-- Correct filenames and language codes.
-- Presence of title and subtitle in every version.
+Verify:
+- Correct article directory and identifier.
+- Correct filename and language code.
+- Presence of title and subtitle.
 - Markdown integrity.
-- Consistency between language versions.
 - Absence of unintended overwrites or unrelated changes.
 
 ### 5. Publish
 
-- If repository write access is available and the user has authorized publication, create the directory and files in the repository.
+- If repository write access is available and the user has authorized publication, create the file in the repository.
 - Preserve existing content and avoid overwriting files.
 - If a commit or pull request is required by the available integration, follow the repository's established workflow.
-- Never claim publication without verifying that the changes were successfully applied.
+- Never claim publication without verifying that the change was successfully applied.
 
-If write access or authorization is unavailable, do not attempt publication. Prepare the proposed structure and report the exact directory and filenames for manual creation.
+If write access or authorization is unavailable, prepare the file and report its exact destination for manual creation.
 
 ## Constraints
 
-- Publish only finalized content.
-- Do not modify unrelated articles or repository files.
-- Do not generate translations, AI summaries, or semantic index entries.
-- Do not assume fixed repository paths, numbering, language lists, or separators.
+- Publish exactly one article version per execution.
+- Never batch multiple languages or articles.
+- Reuse the existing directory for translations.
+- Do not generate translations, summaries, or index entries.
+- Do not modify unrelated articles or previously published versions.
 - Treat the repository's existing conventions as the source of truth.
+- Minimize retained context: process only the current article version and essential repository metadata.
+
+## Style Reference
+
+Use the following published article as a reference for the repository's editorial conventions and article presentation:
+
+https://github.com/cpzjunior/writings/blob/main/52-decision-architecture-handbook/README.pt-BR.md
+
+Use it as a reference, not as a template. Follow the actual repository conventions when they differ.
 
 ## Output
 
-After successful publication, report the article directory, published files, and commit or pull request reference when available.
+After successful publication, report the article directory, published filename, language, and commit or pull request reference when available.
 
-If publication was not possible, provide the exact directory path and filename for each article version, along with its corresponding content or preparation status. Clearly distinguish prepared files from files actually published.
+If publication was not possible, provide the exact destination path and the prepared content or its preparation status.
+
+Clearly distinguish prepared files from successfully published files.
