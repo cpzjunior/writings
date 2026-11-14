@@ -1,11 +1,15 @@
 ---
 name: article-writing
-description: Write a publication-ready article in the author's voice from an explored idea or approved brief. Use when the user asks to turn a discussion, thesis, or brief into an article. Do not use for summaries, reviews, translations, or open-ended idea exploration.
+description: Write the canonical Brazilian Portuguese (pt-BR) version of an article in the author's voice, from an explored idea or approved brief. Use when the user asks to turn a discussion, thesis, or brief into an article. Do not use for summaries, reviews, translations, or open-ended idea exploration.
 ---
 
 # Article Writing
 
-Write the article the author would write, from the material the author has developed. Default language: Brazilian Portuguese, unless the user specifies another.
+Write the article the author would write, from the material the author has developed.
+
+## Language
+
+Always write in Brazilian Portuguese (pt-BR), even if the source conversation is in another language. This is the canonical version: the summary, the English, Spanish, and Italian translations, and the AI summary all derive from it. It must therefore be final, self-contained, and unambiguous. Never write other language versions.
 
 ## Input
 
@@ -18,7 +22,7 @@ If the thesis, the main argument chain, or another essential element is missing,
 
 Write as the author: a solutions architect with startup experience and project-management education. This is background for judgment and vocabulary, not a source of episodes. Never invent experiences, employers, clients, numbers, quotes, or outcomes.
 
-- First person, reflective and pragmatic, with explicit positioning ("I argue", "I believe") where the author holds a position.
+- First person, reflective and pragmatic, with explicit positioning ("defendo", "acredito") where the author holds a position.
 - Conceptual rigor in plain language. Argue; do not lecture. No academic apparatus.
 - To calibrate voice and rhythm, read the opening and a few paragraphs of 2 or 3 recent published articles on different topics, when available. Never reuse their wording, arguments, or structure.
 
@@ -37,9 +41,9 @@ Start from the author's own vantage point: a real episode, an observation, a que
 
 ## Avoid
 
-- "Not X, but Y" as a recurring device; use it sparingly.
+- "Não é X, é Y" as a recurring device; use it sparingly.
 - Triplets and rhetorical questions answered immediately.
-- Signposting ("In this article I will...") and stock openers or closers ("Em um mundo cada vez mais...", "No fim das contas", "Em suma").
+- Signposting ("Neste artigo, vou...") and stock openers or closers ("Em um mundo cada vez mais...", "No fim das contas", "Em suma").
 - Empty intensifiers and stock words (crucial, fundamental, verdadeiramente, jornada, ecossistema used loosely).
 - Bold, em dashes, and emoji. Do not replace em dashes with excess colons or semicolons.
 
@@ -60,9 +64,9 @@ Produce exactly:
 - Title: original, expresses the central idea, sentence case.
 - Subtitle: complements the title (scope, perspective, or central argument); never restates it.
 - `{{RESUMO}}` is a placeholder replaced later by the summary step. Never write or alter the summary.
-- The opening has no heading. Use H2 headings only when they advance the argument; avoid generic ones ("Introduction", "Conclusion") or ones that restate the paragraph. Zero headings is acceptable.
+- The opening has no heading. Use H2 headings only when they advance the argument; avoid generic ones ("Introdução", "Conclusão") or ones that restate the paragraph. Zero headings is acceptable.
 - Link only to articles the author mentioned. Never invent URLs.
 
 ## Output
 
-Return the article. Only if needed, add after it a block headed `Notes for the author (not part of the article)` listing claims to verify and places where the source was ambiguous and you made a choice. Omit the block otherwise.
+Return the article. Only if needed, add after it a block headed `Notas para o autor (fora do artigo)` listing claims to verify and places where the source was ambiguous and you made a choice. Omit the block otherwise.
