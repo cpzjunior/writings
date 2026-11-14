@@ -41,9 +41,11 @@ Write with:
 
 ## Structure
 
-Determine the article structure from the argument itself.
-
-Use a title and meaningful section headings when appropriate. Avoid arbitrary sections, excessive subdivisions, and headings that merely restate the preceding paragraph.
+- Create a mandatory, original title that expresses the article's central idea.
+- Create a mandatory subtitle that complements the title by clarifying the article's scope, perspective, or central argument. Do not merely restate the title.
+- Place the subtitle immediately below the title.
+- Determine the remaining article structure from the argument itself.
+- Use meaningful section headings when appropriate. Avoid arbitrary sections, excessive subdivisions, and headings that merely restate the preceding paragraph.
 
 ## Output
 
